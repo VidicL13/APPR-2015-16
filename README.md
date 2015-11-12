@@ -7,7 +7,7 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2015/16.
 Izbrali si boste temo, s katero se bo vaš projekt ukvarjal. Tukaj boste
 napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
 
-Tema, ki sem jo izbral, je analiza trga ob tedenskem poročilu zaloge nafte v ZDA. 
+Tema, ki sem jo izbral, je analiza trga nafte ob tedenskem poročilu zaloge nafte v ZDA. 
 
  Ameriška uprava za energetske informacije (U.S. Energy Information Administration oz. EIA) je glavna agencija Zveznega statističnega sistema Združenih držav Amerike (Federal Statistical System of the United States). Glavne naloge agencije so zbiranje, analiziranje in razširjanje energetskih informacij za pospeševanje oblikovanja dobrih politik, učinkovitosti trgov in javnega razumevanja energije ter njeno povezanost z gospodarstvom in okoljem. Programi EIA zajemajo podatke o zalogah premoga, nafte, zemeljskega plina, obnovljivih virov, električne ter jedrske energije.
  
