@@ -1,18 +1,25 @@
-# Analiza podatkov s programom R, 2015/16
+# Analiza trga nafte
 
-Repozitorij z gradivi pri predmetu APPR v študijskem letu 2015/16.
+Glede na to da gre tukaj za zelo obširno temo, sem se odločil, da se podrobneje posvetim le specifični novici, ki vpliva na tako na ceno nafte, kot tudi na določene valutne tečaje.
 
-## Tematika
-
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal. Tukaj boste
-napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
-
-Tema, ki sem jo izbral, je analiza trga nafte ob tedenskem poročilu zaloge nafte v ZDA. 
+## Analiza trga nafte ob tedenskem poročilu zaloge nafte v ZDA (Crude Oil Inventories)
 
  Ameriška uprava za energetske informacije (U.S. Energy Information Administration oz. EIA) je glavna agencija Zveznega statističnega sistema Združenih držav Amerike (Federal Statistical System of the United States). Glavne naloge agencije so zbiranje, analiziranje in razširjanje energetskih informacij za pospeševanje oblikovanja dobrih politik, učinkovitosti trgov in javnega razumevanja energije ter njeno povezanost z gospodarstvom in okoljem. Programi EIA zajemajo podatke o zalogah premoga, nafte, zemeljskega plina, obnovljivih virov, električne ter jedrske energije.
  
  EIA tedensko objavlja spremembo števila sodčkov surove nafte (Crude Oil Inventories), ki jo hranijo ameriška podjetja. Nivo zalog vpliva na ceno naftnih izdelkov, posledično se odraža sprememba tudi na inflaciji ter moči dolarja.
  
+
+## Cilj analize
+
+Glavni cilj analize je poiskati vzorce odzivanja trgov, ki se ponavljajo ob objavi novice. Poskušal bom poiskati povezave med razliko napovedi analitikov in objavljeno količino ter odzivnostjo trga. V kolikor bom zaznal vzorce, ki se bodo ponavljali jih bom natančneje analiziral.
+
+### Dodatni cilji
+
+Dodatne cilje bom skušal doseči le v primeru, da bom dosegel glavni cilj. Za stranske cilje sem si zadal iskanje tako imenovanih "arbitraž" med različnimi trgovalnimi instrumenti. Prav tako bi vzporedno razvijal trgovalno strategijo, ki bi te "arbitraže" lahko koristila.
+
+arbitraža - Pogosto smo slišali ta izraz, ko se profesionalne športne ekipe pogajajo o pogodbah z novimi športniki. Značilno je, da je cilj menedžerjev nerealno visoka vsota in cilj vodstva ekipe čim nižji znesek, poravnava pa se pojavi nekje v sredini.
+
+Preberite več: Arbitration Definition | Investopedia http://www.investopedia.com/terms/a/arbitration.asp#ixzz3rgxxywc6 
 
 ## Program
 
