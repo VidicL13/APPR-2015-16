@@ -1,0 +1,525 @@
+				Act.	F'cast	Prior	Rev.	
+Thu, Nov 12, 2015	17:00	US	US DOE Crude Oil Inventories	4224	1300	2847		Chart
+Thu, Nov 12, 2015	17:00	US	US DOE Distillate Inventories	352	-1000	-1300		Chart
+Thu, Nov 12, 2015	17:00	US	US DOE Gasoline Inventories	-2102	-1000	-3300		Chart
+Thu, Nov 12, 2015	17:00	US	US DOE Refinery Utilization	0.8	0.5	1.1		Chart
+Wed, Nov 04, 2015	16:30	US	US DOE Crude Oil Inventories	2847	2500	3376		Chart
+Wed, Nov 04, 2015	16:30	US	US DOE Distillate Inventories	-1300	-2000	-2951		Chart
+Wed, Nov 04, 2015	16:30	US	US DOE Gasoline Inventories	-3300	-1250	-1137		Chart
+Wed, Nov 04, 2015	16:30	US	US DOE Refinery Utilization	1.1	0.3	1.2		Chart
+Wed, Oct 28, 2015	15:30	US	US DOE Crude Oil Inventories	3376	3750	8028		Chart
+Wed, Oct 28, 2015	15:30	US	US DOE Distillate Inventories	-2951	-1750	-2622		Chart
+Wed, Oct 28, 2015	15:30	US	US DOE Gasoline Inventories	-1137	-1050	-1518		Chart
+Wed, Oct 28, 2015	15:30	US	US DOE Refinery Utilization	1.2	0	0.4		Chart
+Wed, Oct 21, 2015	16:30	US	US DOE Crude Oil Inventories	8028	3750	7562		Chart
+Wed, Oct 21, 2015	16:30	US	US DOE Distillate Inventories	-2622	-1100	-1520		Chart
+Wed, Oct 21, 2015	16:30	US	US DOE Gasoline Inventories	-1518	-1000	-2618		Chart
+Wed, Oct 21, 2015	16:30	US	US DOE Refinery Utilization	0.4	-0.5	-1.5		Chart
+Thu, Oct 15, 2015	17:00	US	US DOE Crude Oil Inventories	7562	2577	3073		Chart
+Thu, Oct 15, 2015	17:00	US	US DOE Distillate Inventories	-1520	-700	-2458		Chart
+Thu, Oct 15, 2015	17:00	US	US DOE Gasoline Inventories	-2618	-1250	1910		Chart
+Thu, Oct 15, 2015	17:00	US	US DOE Refinery Utilization	-1.5	-0.58	-2.3		Chart
+Wed, Oct 07, 2015	16:30	US	US DOE Crude Oil Inventories	3073	2250	3955		Chart
+Wed, Oct 07, 2015	16:30	US	US DOE Distillate Inventories	-2458	-300	-267		Chart
+Wed, Oct 07, 2015	16:30	US	US DOE Gasoline Inventories	1910	250	3254		Chart
+Wed, Oct 07, 2015	16:30	US	US DOE Refinery Utilization	-2.3	-0.5	-1.1		Chart
+Wed, Sep 30, 2015	16:30	US	US DOE Crude Oil Inventories	3955	0	-1925		Chart
+Wed, Sep 30, 2015	16:30	US	US DOE Distillate Inventories	-267	-800	-2088		Chart
+Wed, Sep 30, 2015	16:30	US	US DOE Gasoline Inventories	3254	-500	1369		Chart
+Wed, Sep 30, 2015	16:30	US	US DOE Refinery Utilization	-1.1	-0.45	-2.2		Chart
+Wed, Sep 23, 2015	16:30	US	US DOE Crude Oil Inventories	-1925	-1250	-2104		Chart
+Wed, Sep 23, 2015	16:30	US	US DOE Distillate Inventories	-2088	950	3060		Chart
+Wed, Sep 23, 2015	16:30	US	US DOE Gasoline Inventories	1369	850	2840		Chart
+Wed, Sep 23, 2015	16:30	US	US DOE Refinery Utilization	-2.2	-0.5	2.2		Chart
+Wed, Sep 16, 2015	16:30	US	US DOE Crude Oil Inventories	-2104	2000	2570		Chart
+Wed, Sep 16, 2015	16:30	US	US DOE Distillate Inventories	3060	300	952		Chart
+Wed, Sep 16, 2015	16:30	US	US DOE Gasoline Inventories	2840	-500	384		Chart
+Wed, Sep 16, 2015	16:30	US	US DOE Refinery Utilization	2.2	-0.55	-1.9		Chart
+Thu, Sep 10, 2015	17:00	US	US DOE Crude Oil Inventories	2570	900	4667		Chart
+Thu, Sep 10, 2015	17:00	US	US DOE Distillate Inventories	952	900	115		Chart
+Thu, Sep 10, 2015	17:00	US	US DOE Gasoline Inventories	384	-150	-271		Chart
+Thu, Sep 10, 2015	17:00	US	US DOE Refinery Utilization	-1.9	-0.5	-1.7		Chart
+Wed, Sep 02, 2015	16:30	US	US DOE Crude Oil Inventories	4667	900	-5452		Chart
+Wed, Sep 02, 2015	16:30	US	US DOE Distillate Inventories	115	1000	1436		Chart
+Wed, Sep 02, 2015	16:30	US	US DOE Gasoline Inventories	-271	-2000	1660		Chart
+Wed, Sep 02, 2015	16:30	US	US DOE Refinery Utilization	-1.7	-0.5	-0.6		Chart
+Wed, Aug 26, 2015	16:30	US	US DOE Crude Oil Inventories	-5452	1450	2620		Chart
+Wed, Aug 26, 2015	16:30	US	US DOE Distillate Inventories	1436	1020	594		Chart
+Wed, Aug 26, 2015	16:30	US	US DOE Gasoline Inventories	1660	-950	-2708		Chart
+Wed, Aug 26, 2015	16:30	US	US DOE Refinery Utilization	-0.6	-0.5	-1		Chart
+Wed, Aug 19, 2015	16:30	US	US DOE Crude Oil Inventories	2620	-820	-1682		Chart
+Wed, Aug 19, 2015	16:30	US	US DOE Distillate Inventories	594	1500	2994		Chart
+Wed, Aug 19, 2015	16:30	US	US DOE Gasoline Inventories	-2708	-1250	-1251		Chart
+Wed, Aug 19, 2015	16:30	US	US DOE Refinery Utilization	-1	-0.5	0		Chart
+Wed, Aug 12, 2015	16:30	US	US DOE Crude Oil Inventories	-1682	-2000	-4407		Chart
+Wed, Aug 12, 2015	16:30	US	US DOE Distillate Inventories	2994	1050	709		Chart
+Wed, Aug 12, 2015	16:30	US	US DOE Gasoline Inventories	-1251	-675	811		Chart
+Wed, Aug 12, 2015	16:30	US	US DOE Refinery Utilization	0	-0.5	1		Chart
+Wed, Aug 05, 2015	16:30	US	US DOE Crude Oil Inventories	-4407	-1630	-4203		Chart
+Wed, Aug 05, 2015	16:30	US	US DOE Distillate Inventories	709	1750	2588		Chart
+Wed, Aug 05, 2015	16:30	US	US DOE Gasoline Inventories	811	-200	-363		Chart
+Wed, Aug 05, 2015	16:30	US	US DOE Refinery Utilization	1	-0.1	-0.4		Chart
+Wed, Jul 29, 2015	16:30	US	US DOE Crude Oil Inventories	-4203	850	2468		Chart
+Wed, Jul 29, 2015	16:30	US	US DOE Distillate Inventories	2588	1450	235		Chart
+Wed, Jul 29, 2015	16:30	US	US DOE Gasoline Inventories	-363	250	-1725		Chart
+Wed, Jul 29, 2015	16:30	US	US DOE Refinery Utilization	-0.4	-0.1	0.2		Chart
+Wed, Jul 22, 2015	16:30	US	US DOE Crude Oil Inventories	2468	-2200	-4346		Chart
+Wed, Jul 22, 2015	16:30	US	US DOE Distillate Inventories	235	1800	3819		Chart
+Wed, Jul 22, 2015	16:30	US	US DOE Gasoline Inventories	-1725	300	58		Chart
+Wed, Jul 22, 2015	16:30	US	US DOE Refinery Utilization	0.2	0	0.6		Chart
+Wed, Jul 15, 2015	16:30	US	US DOE Crude Oil Inventories	-4346	-1900	384		Chart
+Wed, Jul 15, 2015	16:30	US	US DOE Distillate Inventories	3819	1460	1641		Chart
+Wed, Jul 15, 2015	16:30	US	US DOE Gasoline Inventories	58	450	1215		Chart
+Wed, Jul 15, 2015	16:30	US	US DOE Refinery Utilization	0.6	0.1	-0.3		Chart
+Wed, Jul 08, 2015	16:30	US	US DOE Crude Oil Inventories	384	0	2386		Chart
+Wed, Jul 08, 2015	16:30	US	US DOE Distillate Inventories	1641	1000	392		Chart
+Wed, Jul 08, 2015	16:30	US	US DOE Gasoline Inventories	1215	0	-1757		Chart
+Wed, Jul 08, 2015	16:30	US	US DOE Refinery Utilization	-0.3	0.2	1		Chart
+Wed, Jul 01, 2015	16:30	US	US DOE Crude Oil Inventories	2386	-2500	-4934		Chart
+Wed, Jul 01, 2015	16:30	US	US DOE Distillate Inventories	392	1500	1837		Chart
+Wed, Jul 01, 2015	16:30	US	US DOE Gasoline Inventories	-1757	-250	680		Chart
+Wed, Jul 01, 2015	16:30	US	US DOE Refinery Utilization	1	0.38	0.9		Chart
+Wed, Jun 24, 2015	16:30	US	US DOE Crude Oil Inventories	-4934	-2000	-2676		Chart
+Wed, Jun 24, 2015	16:30	US	US DOE Distillate Inventories	1837	700	114		Chart
+Wed, Jun 24, 2015	16:30	US	US DOE Gasoline Inventories	680	0	460		Chart
+Wed, Jun 24, 2015	16:30	US	US DOE Refinery Utilization	0.9	0.45	-1.5		Chart
+Wed, Jun 17, 2015	16:30	US	US DOE Crude Oil Inventories	-2676	-1800	-6812		Chart
+Wed, Jun 17, 2015	16:30	US	US DOE Distillate Inventories	114	950	865		Chart
+Wed, Jun 17, 2015	16:30	US	US DOE Gasoline Inventories	460	-800	-2939		Chart
+Wed, Jun 17, 2015	16:30	US	US DOE Refinery Utilization	-1.5	0.5	1.4		Chart
+Wed, Jun 10, 2015	16:30	US	US DOE Crude Oil Inventories	-6812	-1500	-1948		Chart
+Wed, Jun 10, 2015	16:30	US	US DOE Distillate Inventories	865	700	3773		Chart
+Wed, Jun 10, 2015	16:30	US	US DOE Gasoline Inventories	-2939	-400	-334		Chart
+Wed, Jun 10, 2015	16:30	US	US DOE Refinery Utilization	1.4	0.1	-0.4		Chart
+Wed, Jun 03, 2015	16:30	US	US DOE Crude Oil Inventories	-1948	-2500	-2802		Chart
+Wed, Jun 03, 2015	16:30	US	US DOE Distillate Inventories	3773	1300	1115		Chart
+Wed, Jun 03, 2015	16:30	US	US DOE Gasoline Inventories	-334	500	-3309		Chart
+Wed, Jun 03, 2015	16:30	US	US DOE Refinery Utilization	-0.4	0.6	1.2		Chart
+Thu, May 28, 2015	17:00	US	US DOE Crude Oil Inventories	-2802	-2000	-2674		Chart
+Thu, May 28, 2015	17:00	US	US DOE Distillate Inventories	1115	-400	-546		Chart
+Thu, May 28, 2015	17:00	US	US DOE Gasoline Inventories	-3309	-1300	-2774		Chart
+Thu, May 28, 2015	17:00	US	US DOE Refinery Utilization	1.2	0.3	1.2		Chart
+Wed, May 20, 2015	16:30	US	US DOE Crude Oil Inventories	-2674	-1750	-2191		Chart
+Wed, May 20, 2015	16:30	US	US DOE Distillate Inventories	-546	400	-2503		Chart
+Wed, May 20, 2015	16:30	US	US DOE Gasoline Inventories	-2774	650	-1142		Chart
+Wed, May 20, 2015	16:30	US	US DOE Refinery Utilization	92.4	0.3	-1.8		Chart
+Wed, May 13, 2015	16:30	US	US DOE Crude Oil Inventories	-2191	-250	-3882		Chart
+Wed, May 13, 2015	16:30	US	US DOE Distillate Inventories	-2503	750	1503		Chart
+Wed, May 13, 2015	16:30	US	US DOE Gasoline Inventories	-1142	250	401		Chart
+Wed, May 13, 2015	16:30	US	US DOE Refinery Utilization	-1.8	0.5	1.7		Chart
+Wed, May 06, 2015	16:30	US	US DOE Crude Oil Inventories	-3882	1500	1910		Chart
+Wed, May 06, 2015	16:30	US	US DOE Distillate Inventories	1503	0	-66		Chart
+Wed, May 06, 2015	16:30	US	US DOE Gasoline Inventories	401	1000	1713		Chart
+Wed, May 06, 2015	16:30	US	US DOE Refinery Utilization	1.7	0.5	0.1		Chart
+Wed, Apr 29, 2015	16:30	US	US DOE Crude Oil Inventories	1910	3300	5315		Chart
+Wed, Apr 29, 2015	16:30	US	US DOE Distillate Inventories	-66	1000	395		Chart
+Wed, Apr 29, 2015	16:30	US	US DOE Gasoline Inventories	1713	900	-2135		Chart
+Wed, Apr 29, 2015	16:30	US	US DOE Refinery Utilization	0.1	0.65	-1.1		Chart
+Wed, Apr 22, 2015	16:30	US	US DOE Crude Oil Inventories	5315	3200	1294		Chart
+Wed, Apr 22, 2015	16:30	US	US DOE Distillate Inventories	395	1100	2017		Chart
+Wed, Apr 22, 2015	16:30	US	US DOE Gasoline Inventories	-2135	-1000	-2072		Chart
+Wed, Apr 22, 2015	16:30	US	US DOE Refinery Utilization	-1.1	0.5	2.2		Chart
+Wed, Apr 15, 2015	16:30	US	US DOE Crude Oil Inventories	1294	3600	10949		Chart
+Wed, Apr 15, 2015	16:30	US	US DOE Distillate Inventories	2017	700	-250		Chart
+Wed, Apr 15, 2015	16:30	US	US DOE Gasoline Inventories	-2072	-750	817		Chart
+Wed, Apr 15, 2015	16:30	US	US DOE Refinery Utilization	2.2	0.5	0.7		Chart
+Wed, Apr 08, 2015	16:30	US	US DOE Crude Oil Inventories	10949	3250	4766		Chart
+Wed, Apr 08, 2015	16:30	US	US DOE Distillate Inventories	-250	850	1325		Chart
+Wed, Apr 08, 2015	16:30	US	US DOE Gasoline Inventories	817	-2000	-4258		Chart
+Wed, Apr 08, 2015	16:30	US	US DOE Refinery Utilization	0.7	0.4	0.4		Chart
+Wed, Apr 01, 2015	16:30	US	US DOE Crude Oil Inventories	4766	4200	8170		Chart
+Wed, Apr 01, 2015	16:30	US	US DOE Distillate Inventories	1325	0	-34		Chart
+Wed, Apr 01, 2015	16:30	US	US DOE Gasoline Inventories	-4258	-650	-2014		Chart
+Wed, Apr 01, 2015	16:30	US	US DOE Refinery Utilization	0.4	0.6	0.9		Chart
+Wed, Mar 25, 2015	15:30	US	US DOE Crude Oil Inventories	8170	4750	9622		Chart
+Wed, Mar 25, 2015	15:30	US	US DOE Distillate Inventories	-34	-1000	380		Chart
+Wed, Mar 25, 2015	15:30	US	US DOE Gasoline Inventories	-2014	-2300	-4473		Chart
+Wed, Mar 25, 2015	15:30	US	US DOE Refinery Utilization	0.9	0.5	0.3		Chart
+Wed, Mar 18, 2015	15:30	US	US DOE Crude Oil Inventories	9622	4400	4512		Chart
+Wed, Mar 18, 2015	15:30	US	US DOE Distillate Inventories	380	-1500	2527		Chart
+Wed, Mar 18, 2015	15:30	US	US DOE Gasoline Inventories	-4473	-900	-187		Chart
+Wed, Mar 18, 2015	15:30	US	US DOE Refinery Utilization	0.3	0.4	1.2		Chart
+Wed, Mar 11, 2015	15:30	US	US DOE Crude Oil Inventories	4512	4750	10303		Chart
+Wed, Mar 11, 2015	15:30	US	US DOE Distillate Inventories	2527	-2250	-1722		Chart
+Wed, Mar 11, 2015	15:30	US	US DOE Gasoline Inventories	-187	-1750	46		Chart
+Wed, Mar 11, 2015	15:30	US	US DOE Refinery Utilization	1.2	-0.5	-0.8		Chart
+Wed, Mar 04, 2015	16:30	US	US DOE Crude Oil Inventories	10303	3950	8427		Chart
+Wed, Mar 04, 2015	16:30	US	US DOE Distillate Inventories	-1722	-2500	-2711		Chart
+Wed, Mar 04, 2015	16:30	US	US DOE Gasoline Inventories	46	-2000	-3118		Chart
+Wed, Mar 04, 2015	16:30	US	US DOE Refinery Utilization	-0.8	-0.5	-1.3		Chart
+Wed, Feb 25, 2015	16:30	US	US DOE Crude Oil Inventories	8427	4000	7716		Chart
+Wed, Feb 25, 2015	16:30	US	US DOE Distillate Inventories	-2711	-3500	-3814		Chart
+Wed, Feb 25, 2015	16:30	US	US DOE Gasoline Inventories	-3118	-2000	485		Chart
+Wed, Feb 25, 2015	16:30	US	US DOE Refinery Utilization	-1.3	-0.35	-1.3		Chart
+Thu, Feb 19, 2015	17:00	US	US DOE Crude Oil Inventories	7716	3000	4868		Chart
+Thu, Feb 19, 2015	17:00	US	US DOE Distillate Inventories	-3814	-2000	-3252		Chart
+Thu, Feb 19, 2015	17:00	US	US DOE Gasoline Inventories	485	-650	1977		Chart
+Thu, Feb 19, 2015	17:00	US	US DOE Refinery Utilization	-1.3	-1	0.1		Chart
+Wed, Feb 11, 2015	16:30	US	US DOE Crude Oil Inventories	4868	3750	6333		Chart
+Wed, Feb 11, 2015	16:30	US	US DOE Distillate Inventories	-3252	-1250	1788		Chart
+Wed, Feb 11, 2015	16:30	US	US DOE Gasoline Inventories	1977	200	2335		Chart
+Wed, Feb 11, 2015	16:30	US	US DOE Refinery Utilization	0.1	0	1.9		Chart
+Wed, Feb 04, 2015	16:30	US	US DOE Crude Oil Inventories	6333	3250	8874		Chart
+Wed, Feb 04, 2015	16:30	US	US DOE Distillate Inventories	1788	-1500	-3892		Chart
+Wed, Feb 04, 2015	16:30	US	US DOE Gasoline Inventories	2335	-1150	-2587		Chart
+Wed, Feb 04, 2015	16:30	US	US DOE Refinery Utilization	1.9	-0.5	2.5		Chart
+Wed, Jan 28, 2015	16:30	US	US DOE Crude Oil Inventories	8874	3850	10071		Chart
+Wed, Jan 28, 2015	16:30	US	US DOE Distillate Inventories	-3892	-1500	-3272		Chart
+Wed, Jan 28, 2015	16:30	US	US DOE Gasoline Inventories	-2587	500	588		Chart
+Wed, Jan 28, 2015	16:30	US	US DOE Refinery Utilization	2.5	0.2	-5.5		Chart
+Thu, Jan 22, 2015	17:00	US	US DOE Crude Oil Inventories	10071	2700	5389		Chart
+Thu, Jan 22, 2015	17:00	US	US DOE Distillate Inventories	-3272	500	2925		Chart
+Thu, Jan 22, 2015	17:00	US	US DOE Gasoline Inventories	588	1500	3171		Chart
+Thu, Jan 22, 2015	17:00	US	US DOE Refinery Utilization	-5.5	-0.65	-2.9		Chart
+Wed, Jan 14, 2015	16:30	US	US DOE Crude Oil Inventories	5389	1750	-3062		Chart
+Wed, Jan 14, 2015	16:30	US	US DOE Distillate Inventories	2925	2100	11205		Chart
+Wed, Jan 14, 2015	16:30	US	US DOE Gasoline Inventories	3171	3750	8115		Chart
+Wed, Jan 14, 2015	16:30	US	US DOE Refinery Utilization	-2.9	-0.25	-0.5		Chart
+Wed, Jan 07, 2015	16:30	US	US DOE Crude Oil Inventories	-3062	700	-1754		Chart
+Wed, Jan 07, 2015	16:30	US	US DOE Distillate Inventories	11205	1750	1874		Chart
+Wed, Jan 07, 2015	16:30	US	US DOE Gasoline Inventories	8115	4500	2951		Chart
+Wed, Jan 07, 2015	16:30	US	US DOE Refinery Utilization	-0.5	0	0.9		Chart
+Wed, Dec 31, 2014	16:30	US	US DOE Crude Oil Inventories	-1754	900	7267		Chart
+Wed, Dec 31, 2014	16:30	US	US DOE Distillate Inventories	1874	2000	2303		Chart
+Wed, Dec 31, 2014	16:30	US	US DOE Gasoline Inventories	2951	2000	4083		Chart
+Wed, Dec 31, 2014	16:30	US	US DOE Refinery Utilization	0.9	0	0		Chart
+Wed, Dec 24, 2014	16:30	US	US DOE Crude Oil Inventories	7267	-2500	-847		Chart
+Wed, Dec 24, 2014	16:30	US	US DOE Distillate Inventories	2303	-1000	-207		Chart
+Wed, Dec 24, 2014	16:30	US	US DOE Gasoline Inventories	4083	1000	5250		Chart
+Wed, Dec 24, 2014	16:30	US	US DOE Refinery Utilization	0	0	-1.9		Chart
+Wed, Dec 17, 2014	16:30	US	US DOE Crude Oil Inventories	-847	-2250	1454		Chart
+Wed, Dec 17, 2014	16:30	US	US DOE Distillate Inventories	-207	150	5577		Chart
+Wed, Dec 17, 2014	16:30	US	US DOE Gasoline Inventories	5250	1750	8197		Chart
+Wed, Dec 17, 2014	16:30	US	US DOE Refinery Utilization	-1.9	-0.13	2		Chart
+Wed, Dec 10, 2014	16:30	US	US DOE Crude Oil Inventories	1454	-2700	-3689		Chart
+Wed, Dec 10, 2014	16:30	US	US DOE Distillate Inventories	5577	1550	3028		Chart
+Wed, Dec 10, 2014	16:30	US	US DOE Gasoline Inventories	8197	2550	2143		Chart
+Wed, Dec 10, 2014	16:30	US	US DOE Refinery Utilization	2	0.3	1.9		Chart
+Wed, Dec 03, 2014	16:30	US	US DOE Crude Oil Inventories	-3689	1750	1946		Chart
+Wed, Dec 03, 2014	16:30	US	US DOE Distillate Inventories	3028	550	-1648		Chart
+Wed, Dec 03, 2014	16:30	US	US DOE Gasoline Inventories	2143	1500	1825		Chart
+Wed, Dec 03, 2014	16:30	US	US DOE Refinery Utilization	1.9	0.5	0.3		Chart
+Wed, Nov 26, 2014	16:30	US	US DOE Crude Oil Inventories	1946	250	2608		Chart
+Wed, Nov 26, 2014	16:30	US	US DOE Distillate Inventories	-1648	-900	-2056		Chart
+Wed, Nov 26, 2014	16:30	US	US DOE Gasoline Inventories	1825	1500	1034		Chart
+Wed, Nov 26, 2014	16:30	US	US DOE Refinery Utilization	0.3	0.15	1.1		Chart
+Wed, Nov 19, 2014	16:30	US	US DOE Crude Oil Inventories	2608	-1500	-1735		Chart
+Wed, Nov 19, 2014	16:30	US	US DOE Distillate Inventories	-2056	-2000	-2803		Chart
+Wed, Nov 19, 2014	16:30	US	US DOE Gasoline Inventories	1034	900	1805		Chart
+Wed, Nov 19, 2014	16:30	US	US DOE Refinery Utilization	1.1	0.5	1.7		Chart
+Thu, Nov 13, 2014	17:00	US	US DOE Crude Oil Inventories	-1735	1050	460		Chart
+Thu, Nov 13, 2014	17:00	US	US DOE Distillate Inventories	-2803	-1500	-724		Chart
+Thu, Nov 13, 2014	17:00	US	US DOE Gasoline Inventories	1805	200	-1378		Chart
+Thu, Nov 13, 2014	17:00	US	US DOE Refinery Utilization	1.7	1	1.8		Chart
+Wed, Nov 05, 2014	16:30	US	US DOE Crude Oil Inventories	460	2350	2061		Chart
+Wed, Nov 05, 2014	16:30	US	US DOE Distillate Inventories	-724	-2200	-5294		Chart
+Wed, Nov 05, 2014	16:30	US	US DOE Gasoline Inventories	-1378	-600	-1236		Chart
+Wed, Nov 05, 2014	16:30	US	US DOE Refinery Utilization	1.8	0.3	-0.1		Chart
+Wed, Oct 29, 2014	15:30	US	US DOE Crude Oil Inventories	2061	3650	7111		Chart
+Wed, Oct 29, 2014	15:30	US	US DOE Distillate Inventories	-5294	-1400	1049		Chart
+Wed, Oct 29, 2014	15:30	US	US DOE Gasoline Inventories	-1236	-900	-1299		Chart
+Wed, Oct 29, 2014	15:30	US	US DOE Refinery Utilization	-0.1	0.25	-1.4		Chart
+Wed, Oct 22, 2014	16:30	US	US DOE Crude Oil Inventories	7111	3000	8923		Chart
+Wed, Oct 22, 2014	16:30	US	US DOE Distillate Inventories	1049	-1300	-1518		Chart
+Wed, Oct 22, 2014	16:30	US	US DOE Gasoline Inventories	-1299	-1450	-3995		Chart
+Wed, Oct 22, 2014	16:30	US	US DOE Refinery Utilization	-1.4	0.03	-1.2		Chart
+Thu, Oct 16, 2014	17:00	US	US DOE Crude Oil Inventories	8923	2450	5015		Chart
+Thu, Oct 16, 2014	17:00	US	US DOE Distillate Inventories	-1518	-1800	439		Chart
+Thu, Oct 16, 2014	17:00	US	US DOE Gasoline Inventories	-3995	-1700	1180		Chart
+Thu, Oct 16, 2014	17:00	US	US DOE Refinery Utilization	-1.2	-0.75	-0.5		Chart
+Wed, Oct 08, 2014	16:30	US	US DOE Crude Oil Inventories	5015	2000	-1363		Chart
+Wed, Oct 08, 2014	16:30	US	US DOE Distillate Inventories	439	-1250	-2894		Chart
+Wed, Oct 08, 2014	16:30	US	US DOE Gasoline Inventories	1180	-500	-1836		Chart
+Wed, Oct 08, 2014	16:30	US	US DOE Refinery Utilization	-0.5	-0.8	-3.6		Chart
+Wed, Oct 01, 2014	16:30	US	US DOE Crude Oil Inventories	-1363	1500	-4273		Chart
+Wed, Oct 01, 2014	16:30	US	US DOE Distillate Inventories	-2894	0	823		Chart
+Wed, Oct 01, 2014	16:30	US	US DOE Gasoline Inventories	-1836	-600	-414		Chart
+Wed, Oct 01, 2014	16:30	US	US DOE Refinery Utilization	-3.6	-0.55	0.4		Chart
+Wed, Sep 24, 2014	16:30	US	US DOE Crude Oil Inventories	-4273	750	3673		Chart
+Wed, Sep 24, 2014	16:30	US	US DOE Distillate Inventories	823	500	279		Chart
+Wed, Sep 24, 2014	16:30	US	US DOE Gasoline Inventories	-414	0	-1635		Chart
+Wed, Sep 24, 2014	16:30	US	US DOE Refinery Utilization	0.4	-0.5	-0.9		Chart
+Wed, Sep 17, 2014	16:30	US	US DOE Crude Oil Inventories	3673	-1500	-972		Chart
+Wed, Sep 17, 2014	16:30	US	US DOE Distillate Inventories	279	750	4094		Chart
+Wed, Sep 17, 2014	16:30	US	US DOE Gasoline Inventories	-1635	-125	2381		Chart
+Wed, Sep 17, 2014	16:30	US	US DOE Refinery Utilization	-0.9	-0.65	0.6		Chart
+Wed, Sep 10, 2014	16:30	US	US DOE Crude Oil Inventories	-972	-1500	-905		Chart
+Wed, Sep 10, 2014	16:30	US	US DOE Distillate Inventories	4093	1000	605		Chart
+Wed, Sep 10, 2014	16:30	US	US DOE Gasoline Inventories	2381	0	-2322		Chart
+Wed, Sep 10, 2014	16:30	US	US DOE Refinery Utilization	0.6	-0.25	-0.2		Chart
+Thu, Sep 04, 2014	17:00	US	US DOE Crude Oil Inventories	-905	-1000	-2070		Chart
+Thu, Sep 04, 2014	17:00	US	US DOE Distillate Inventories	605	-1000	1252		Chart
+Thu, Sep 04, 2014	17:00	US	US DOE Gasoline Inventories	-2322	-1400	-960		Chart
+Thu, Sep 04, 2014	17:00	US	US DOE Refinery Utilization	-0.2	-0.4	0.1		Chart
+Wed, Aug 27, 2014	16:30	US	US DOE Crude Oil Inventories	-2070	-2500	-4474		Chart
+Wed, Aug 27, 2014	16:30	US	US DOE Distillate Inventories	1252	0	-960		Chart
+Wed, Aug 27, 2014	16:30	US	US DOE Gasoline Inventories	-960	-1600	585		Chart
+Wed, Aug 27, 2014	16:30	US	US DOE Refinery Utilization	0.1	-0.35	1.8		Chart
+Wed, Aug 20, 2014	16:30	US	US DOE Crude Oil Inventories	-4474	-1750	1401		Chart
+Wed, Aug 20, 2014	16:30	US	US DOE Distillate Inventories	-960	-300	-2421		Chart
+Wed, Aug 20, 2014	16:30	US	US DOE Gasoline Inventories	585	-1550	-1160		Chart
+Wed, Aug 20, 2014	16:30	US	US DOE Refinery Utilization	1.8	-0.4	-0.8		Chart
+Wed, Aug 13, 2014	16:30	US	US DOE Crude Oil Inventories	1401	-2050	-1756		Chart
+Wed, Aug 13, 2014	16:30	US	US DOE Distillate Inventories	-2421	-50	-1798		Chart
+Wed, Aug 13, 2014	16:30	US	US DOE Gasoline Inventories	-1160	-1500	-4387		Chart
+Wed, Aug 13, 2014	16:30	US	US DOE Refinery Utilization	-0.8	-0.5	-1.1		Chart
+Wed, Aug 06, 2014	16:30	US	US DOE Crude Oil Inventories	-1756	-1550	-3697		Chart
+Wed, Aug 06, 2014	16:30	US	US DOE Distillate Inventories	-1798	850	789		Chart
+Wed, Aug 06, 2014	16:30	US	US DOE Gasoline Inventories	-4387	0	365		Chart
+Wed, Aug 06, 2014	16:30	US	US DOE Refinery Utilization	-1.1	-0.6	-0.3		Chart
+Wed, Jul 30, 2014	16:30	US	US DOE Crude Oil Inventories	-3697	-1250	-3969		Chart
+Wed, Jul 30, 2014	16:30	US	US DOE Distillate Inventories	789	1500	1636		Chart
+Wed, Jul 30, 2014	16:30	US	US DOE Gasoline Inventories	365	1000	3379		Chart
+Wed, Jul 30, 2014	16:30	US	US DOE Refinery Utilization	-0.3	-0.2	0		Chart
+Wed, Jul 23, 2014	16:30	US	US DOE Crude Oil Inventories	-3969	-2900	-7525		Chart
+Wed, Jul 23, 2014	16:30	US	US DOE Distillate Inventories	1636	2000	2528		Chart
+Wed, Jul 23, 2014	16:30	US	US DOE Gasoline Inventories	3379	1000	171		Chart
+Wed, Jul 23, 2014	16:30	US	US DOE Refinery Utilization	0	0.05	2.2		Chart
+Wed, Jul 16, 2014	16:30	US	US DOE Crude Oil Inventories	-7525	-2750	-2370		Chart
+Wed, Jul 16, 2014	16:30	US	US DOE Distillate Inventories	2528	2000	227		Chart
+Wed, Jul 16, 2014	16:30	US	US DOE Gasoline Inventories	171	950	579		Chart
+Wed, Jul 16, 2014	16:30	US	US DOE Refinery Utilization	2.2	0	0.2		Chart
+Wed, Jul 09, 2014	16:30	US	US DOE Crude Oil Inventories	-2370	-2500	-3155		Chart
+Wed, Jul 09, 2014	16:30	US	US DOE Distillate Inventories	227	1400	975		Chart
+Wed, Jul 09, 2014	16:30	US	US DOE Gasoline Inventories	579	-400	-1235		Chart
+Wed, Jul 09, 2014	16:30	US	US DOE Refinery Utilization	0.2	0.15	2.9		Chart
+Wed, Jul 02, 2014	16:30	US	US DOE Crude Oil Inventories	-3155	-2400	1742		Chart
+Wed, Jul 02, 2014	16:30	US	US DOE Distillate Inventories	975	950	1177		Chart
+Wed, Jul 02, 2014	16:30	US	US DOE Gasoline Inventories	-1235	550	710		Chart
+Wed, Jul 02, 2014	16:30	US	US DOE Refinery Utilization	2.9	0.5	1.4		Chart
+Wed, Jun 25, 2014	16:30	US	US DOE Crude Oil Inventories	1742	-1700	-579		Chart
+Wed, Jun 25, 2014	16:30	US	US DOE Distillate Inventories	1177	850	436		Chart
+Wed, Jun 25, 2014	16:30	US	US DOE Gasoline Inventories	710	1450	785		Chart
+Wed, Jun 25, 2014	16:30	US	US DOE Refinery Utilization	1.4	0.5	-0.8		Chart
+Wed, Jun 18, 2014	16:30	US	US DOE Crude Oil Inventories	-579	-750	-2596		Chart
+Wed, Jun 18, 2014	16:30	US	US DOE Distillate Inventories	436	350	860		Chart
+Wed, Jun 18, 2014	16:30	US	US DOE Gasoline Inventories	785	-550	1697		Chart
+Wed, Jun 18, 2014	16:30	US	US DOE Refinery Utilization	-0.8	0.7	-2.9		Chart
+Wed, Jun 11, 2014	16:30	US	US DOE Crude Oil Inventories	-2596	-2000	-3431		Chart
+Wed, Jun 11, 2014	16:30	US	US DOE Distillate Inventories	860	1000	2012		Chart
+Wed, Jun 11, 2014	16:30	US	US DOE Gasoline Inventories	1697	1000	210		Chart
+Wed, Jun 11, 2014	16:30	US	US DOE Refinery Utilization	-2.9	0.25	0.9		Chart
+Wed, Jun 04, 2014	16:30	US	US DOE Crude Oil Inventories	-3431	-250	1657		Chart
+Wed, Jun 04, 2014	16:30	US	US DOE Distillate Inventories	2012	900	-196		Chart
+Wed, Jun 04, 2014	16:30	US	US DOE Gasoline Inventories	210	400	-1803		Chart
+Wed, Jun 04, 2014	16:30	US	US DOE Refinery Utilization	0.9	0.5	1.2		Chart
+Thu, May 29, 2014	17:00	US	US DOE Crude Oil Inventories	1657	500	-7226		Chart
+Thu, May 29, 2014	17:00	US	US DOE Distillate Inventories	-196	500	3399		Chart
+Thu, May 29, 2014	17:00	US	US DOE Gasoline Inventories	-1803	0	970		Chart
+Thu, May 29, 2014	17:00	US	US DOE Refinery Utilization	1.2	0.5	-0.1		Chart
+Wed, May 21, 2014	16:30	US	US DOE Crude Oil Inventories	-7226	0	947		Chart
+Wed, May 21, 2014	16:30	US	US DOE Distillate Inventories	3399	-500	-1124		Chart
+Wed, May 21, 2014	16:30	US	US DOE Gasoline Inventories	970	0	-772		Chart
+Wed, May 21, 2014	16:30	US	US DOE Refinery Utilization	-0.1	0.45	-1.4		Chart
+Wed, May 14, 2014	16:30	US	US DOE Crude Oil Inventories	947	0	-1781		Chart
+Wed, May 14, 2014	16:30	US	US DOE Distillate Inventories	-1124	500	-447		Chart
+Wed, May 14, 2014	16:30	US	US DOE Gasoline Inventories	-772	300	1608		Chart
+Wed, May 14, 2014	16:30	US	US DOE Refinery Utilization	-1.4	0.5	-0.8		Chart
+Wed, May 07, 2014	16:30	US	US DOE Crude Oil Inventories	-1781	1250	1698		Chart
+Wed, May 07, 2014	16:30	US	US DOE Distillate Inventories	-447	750	1936		Chart
+Wed, May 07, 2014	16:30	US	US DOE Gasoline Inventories	1608	500	1564		Chart
+Wed, May 07, 2014	16:30	US	US DOE Refinery Utilization	-0.8	0.5	0		Chart
+Wed, Apr 30, 2014	16:30	US	US DOE Crude Oil Inventories	1698	2200	3524		Chart
+Wed, Apr 30, 2014	16:30	US	US DOE Distillate Inventories	1936	500	597		Chart
+Wed, Apr 30, 2014	16:30	US	US DOE Gasoline Inventories	1564	-900	-274		Chart
+Wed, Apr 30, 2014	16:30	US	US DOE Refinery Utilization	0	0.5	2.2		Chart
+Wed, Apr 23, 2014	16:30	US	US DOE Crude Oil Inventories	3524	3000	10013		Chart
+Wed, Apr 23, 2014	16:30	US	US DOE Distillate Inventories	597	-300	-1278		Chart
+Wed, Apr 23, 2014	16:30	US	US DOE Gasoline Inventories	-274	-1650	-154		Chart
+Wed, Apr 23, 2014	16:30	US	US DOE Refinery Utilization	2.2	0.2	1.3		Chart
+Wed, Apr 16, 2014	16:30	US	US DOE Crude Oil Inventories	10013	1750	4030		Chart
+Wed, Apr 16, 2014	16:30	US	US DOE Distillate Inventories	-1278	0	239		Chart
+Wed, Apr 16, 2014	16:30	US	US DOE Gasoline Inventories	-154	-1750	-5188		Chart
+Wed, Apr 16, 2014	16:30	US	US DOE Refinery Utilization	1.3	0	-0.2		Chart
+Wed, Apr 09, 2014	16:30	US	US DOE Crude Oil Inventories	4030	750	-2379		Chart
+Wed, Apr 09, 2014	16:30	US	US DOE Distillate Inventories	239	-250	554		Chart
+Wed, Apr 09, 2014	16:30	US	US DOE Gasoline Inventories	-5188	-1000	-1574		Chart
+Wed, Apr 09, 2014	16:30	US	US DOE Refinery Utilization	-0.2	0.2	1.7		Chart
+Wed, Apr 02, 2014	16:30	US	US DOE Crude Oil Inventories	-2379	2500	6619		Chart
+Wed, Apr 02, 2014	16:30	US	US DOE Distillate Inventories	554	0	1555		Chart
+Wed, Apr 02, 2014	16:30	US	US DOE Gasoline Inventories	-1574	-2000	-5101		Chart
+Wed, Apr 02, 2014	16:30	US	US DOE Refinery Utilization	1.7	0.35	0.4		Chart
+Wed, Mar 26, 2014	15:30	US	US DOE Crude Oil Inventories	6619	2500	5850		Chart
+Wed, Mar 26, 2014	15:30	US	US DOE Distillate Inventories	1555	-1380	-3097		Chart
+Wed, Mar 26, 2014	15:30	US	US DOE Gasoline Inventories	-5101	-1500	-1467		Chart
+Wed, Mar 26, 2014	15:30	US	US DOE Refinery Utilization	0.4	0.55	-0.4		Chart
+Wed, Mar 19, 2014	15:30	US	US DOE Crude Oil Inventories	5850	2750	6180		Chart
+Wed, Mar 19, 2014	15:30	US	US DOE Distillate Inventories	-3097	-800	-533		Chart
+Wed, Mar 19, 2014	15:30	US	US DOE Gasoline Inventories	-1467	-1550	-5230		Chart
+Wed, Mar 19, 2014	15:30	US	US DOE Refinery Utilization	-0.4	-0.5	-1.4		Chart
+Wed, Mar 12, 2014	15:30	US	US DOE Crude Oil Inventories	6180	2000	1429		Chart
+Wed, Mar 12, 2014	15:30	US	US DOE Distillate Inventories	-533	-450	1414		Chart
+Wed, Mar 12, 2014	15:30	US	US DOE Gasoline Inventories	-5230	-2000	-1604		Chart
+Wed, Mar 12, 2014	15:30	US	US DOE Refinery Utilization	-1.4	0	-0.6		Chart
+Wed, Mar 05, 2014	16:30	US	US DOE Crude Oil Inventories	1429	1300	68		Chart
+Wed, Mar 05, 2014	16:30	US	US DOE Distillate Inventories	1414	-1000	338		Chart
+Wed, Mar 05, 2014	16:30	US	US DOE Gasoline Inventories	-1604	-1000	-2807		Chart
+Wed, Mar 05, 2014	16:30	US	US DOE Refinery Utilization	-0.6	-0.3	1.2		Chart
+Wed, Feb 26, 2014	16:30	US	US DOE Crude Oil Inventories	68	1275	973		Chart
+Wed, Feb 26, 2014	16:30	US	US DOE Distillate Inventories	338	-1250	-339		Chart
+Wed, Feb 26, 2014	16:30	US	US DOE Gasoline Inventories	-2807	-1000	309		Chart
+Wed, Feb 26, 2014	16:30	US	US DOE Refinery Utilization	1.2	0	-0.3		Chart
+Thu, Feb 20, 2014	17:00	US	US DOE Crude Oil Inventories	973	2250	3267		Chart
+Thu, Feb 20, 2014	17:00	US	US DOE Distillate Inventories	-339	-2100	-731		Chart
+Thu, Feb 20, 2014	17:00	US	US DOE Gasoline Inventories	309	-850	-1853		Chart
+Thu, Feb 20, 2014	17:00	US	US DOE Refinery Utilization	-0.3	-0.5	1		Chart
+Wed, Feb 12, 2014	16:30	US	US DOE Crude Oil Inventories	3267	2600	440		Chart
+Wed, Feb 12, 2014	16:30	US	US DOE Distillate Inventories	-731	-2125	-2360		Chart
+Wed, Feb 12, 2014	16:30	US	US DOE Gasoline Inventories	-1853	100	505		Chart
+Wed, Feb 12, 2014	16:30	US	US DOE Refinery Utilization	1	-0.5	-2.1		Chart
+Wed, Feb 05, 2014	16:30	US	US DOE Crude Oil Inventories	440	2550	6421		Chart
+Wed, Feb 05, 2014	16:30	US	US DOE Distillate Inventories	-2360	-2500	-4584		Chart
+Wed, Feb 05, 2014	16:30	US	US DOE Gasoline Inventories	505	1150	-819		Chart
+Wed, Feb 05, 2014	16:30	US	US DOE Refinery Utilization	-2.1	-0.1	1.7		Chart
+Wed, Jan 29, 2014	16:30	US	US DOE Crude Oil Inventories	6421	2250	990		Chart
+Wed, Jan 29, 2014	16:30	US	US DOE Distillate Inventories	-4584	-2550	-3212		Chart
+Wed, Jan 29, 2014	16:30	US	US DOE Gasoline Inventories	-819	1600	2123		Chart
+Wed, Jan 29, 2014	16:30	US	US DOE Refinery Utilization	1.7	0.85	-3.5		Chart
+Thu, Jan 23, 2014	17:00	US	US DOE Crude Oil Inventories	990	1150	-7658		Chart
+Thu, Jan 23, 2014	17:00	US	US DOE Distillate Inventories	-3212	-500	-1023		Chart
+Thu, Jan 23, 2014	17:00	US	US DOE Gasoline Inventories	2123	1750	6183		Chart
+Thu, Jan 23, 2014	17:00	US	US DOE Refinery Utilization	-3.5	-0.5	-2.3		Chart
+Wed, Jan 15, 2014	16:30	US	US DOE Crude Oil Inventories	-7658	-1300	-2675		Chart
+Wed, Jan 15, 2014	16:30	US	US DOE Distillate Inventories	-1023	1250	5826		Chart
+Wed, Jan 15, 2014	16:30	US	US DOE Gasoline Inventories	6183	2500	6243		Chart
+Wed, Jan 15, 2014	16:30	US	US DOE Refinery Utilization	-2.3	-0.4	-0.1		Chart
+Wed, Jan 08, 2014	16:30	US	US DOE Crude Oil Inventories	-2675	-2750	-7007		Chart
+Wed, Jan 08, 2014	16:30	US	US DOE Distillate Inventories	5826	2250	5042		Chart
+Wed, Jan 08, 2014	16:30	US	US DOE Gasoline Inventories	6243	2500	844		Chart
+Wed, Jan 08, 2014	16:30	US	US DOE Refinery Utilization	-0.1	0.25	-0.3		Chart
+Fri, Jan 03, 2014	17:00	US	US DOE Crude Oil Inventories	-7007	-2825	-4731		Chart
+Fri, Jan 03, 2014	17:00	US	US DOE Distillate Inventories	5042	750	-1850		Chart
+Fri, Jan 03, 2014	17:00	US	US DOE Gasoline Inventories	844	1375	-614		Chart
+Fri, Jan 03, 2014	17:00	US	US DOE Refinery Utilization	-0.3	0	1.2		Chart
+Fri, Dec 27, 2013	17:00	US	US DOE Crude Oil Inventories	-4731	-2650	-2941		Chart
+Fri, Dec 27, 2013	17:00	US	US DOE Distillate Inventories	-1850	-1000	-2110		Chart
+Fri, Dec 27, 2013	17:00	US	US DOE Gasoline Inventories	-614	1100	1337		Chart
+Fri, Dec 27, 2013	17:00	US	US DOE Refinery Utilization	1.2	-0.1	-1.1		Chart
+Wed, Dec 18, 2013	16:30	US	US DOE Crude Oil Inventories	-2941	-3500	-10585		Chart
+Wed, Dec 18, 2013	16:30	US	US DOE Distillate Inventories	-2110	0	4541		Chart
+Wed, Dec 18, 2013	16:30	US	US DOE Gasoline Inventories	1337	1500	6717		Chart
+Wed, Dec 18, 2013	16:30	US	US DOE Refinery Utilization	-1.1	0.1	0.2		Chart
+Wed, Dec 11, 2013	16:30	US	US DOE Crude Oil Inventories	-10585	-3000	-5585		Chart
+Wed, Dec 11, 2013	16:30	US	US DOE Distillate Inventories	4541	1550	2649		Chart
+Wed, Dec 11, 2013	16:30	US	US DOE Gasoline Inventories	6717	2000	1828		Chart
+Wed, Dec 11, 2013	16:30	US	US DOE Refinery Utilization	0.2	0.5	3		Chart
+Wed, Dec 04, 2013	16:30	US	US DOE Crude Oil Inventories	-5585	-500	2953		Chart
+Wed, Dec 04, 2013	16:30	US	US DOE Distillate Inventories	2649	-1500	-1666		Chart
+Wed, Dec 04, 2013	16:30	US	US DOE Gasoline Inventories	1828	1250	1751		Chart
+Wed, Dec 04, 2013	16:30	US	US DOE Refinery Utilization	3	0.6	0.8		Chart
+Wed, Nov 27, 2013	16:30	US	US DOE Crude Oil Inventories	2953	750	375		Chart
+Wed, Nov 27, 2013	16:30	US	US DOE Distillate Inventories	-1666	-1000	-4795		Chart
+Wed, Nov 27, 2013	16:30	US	US DOE Gasoline Inventories	1751	500	-345		Chart
+Wed, Nov 27, 2013	16:30	US	US DOE Refinery Utilization	0.8	0.25	-0.1		Chart
+Wed, Nov 20, 2013	16:30	US	US DOE Crude Oil Inventories	375	1000	2640		Chart
+Wed, Nov 20, 2013	16:30	US	US DOE Distillate Inventories	-4795	-280	-481		Chart
+Wed, Nov 20, 2013	16:30	US	US DOE Gasoline Inventories	-345	-300	-838		Chart
+Wed, Nov 20, 2013	16:30	US	US DOE Refinery Utilization	-0.1	0.5	1.9		Chart
+Thu, Nov 14, 2013	17:00	US	US DOE Crude Oil Inventories	2640	800	1577		Chart
+Thu, Nov 14, 2013	17:00	US	US DOE Distillate Inventories	-481	-1000	-4899		Chart
+Thu, Nov 14, 2013	17:00	US	US DOE Gasoline Inventories	-838	-900	-3755		Chart
+Thu, Nov 14, 2013	17:00	US	US DOE Refinery Utilization	1.9	0.6	-0.5		Chart
+Wed, Nov 06, 2013	16:30	US	US DOE Crude Oil Inventories	1577	2100	4087		Chart
+Wed, Nov 06, 2013	16:30	US	US DOE Distillate Inventories	-4899	-1500	-3058		Chart
+Wed, Nov 06, 2013	16:30	US	US DOE Gasoline Inventories	-3755	-400	-1713		Chart
+Wed, Nov 06, 2013	16:30	US	US DOE Refinery Utilization	-0.5	-0.23	1.4		Chart
+Wed, Oct 30, 2013	15:30	US	US DOE Crude Oil Inventories	4087	2400	5246		Chart
+Wed, Oct 30, 2013	15:30	US	US DOE Distillate Inventories	-3058	-1000	1537		Chart
+Wed, Oct 30, 2013	15:30	US	US DOE Gasoline Inventories	-1713	-200	-1805		Chart
+Wed, Oct 30, 2013	15:30	US	US DOE Refinery Utilization	1.4	0	-0.3		Chart
+Wed, Oct 23, 2013	16:30	US	US DOE Crude Oil Inventories	5246	3000	3999		Chart
+Wed, Oct 23, 2013	16:30	US	US DOE Distillate Inventories	1537	-1800	-1801		Chart
+Wed, Oct 23, 2013	16:30	US	US DOE Gasoline Inventories	-1805	-1000	-2570		Chart
+Wed, Oct 23, 2013	16:30	US	US DOE Refinery Utilization	-0.3	0.25	0.2		Chart
+Mon, Oct 21, 2013	16:30	US	US DOE Crude Oil Inventories	5246	3000	3999		Chart
+Mon, Oct 21, 2013	16:30	US	US DOE Distillate Inventories	1537	-1800	-1801		Chart
+Mon, Oct 21, 2013	16:30	US	US DOE Gasoline Inventories	-1805	-1000	-2570		Chart
+Mon, Oct 21, 2013	16:30	US	US DOE Refinery Utilization	-0.3	0.25	0.2		Chart
+Wed, Oct 09, 2013	16:30	US	US DOE Crude Oil Inventories	6807	1550	5472		Chart
+Wed, Oct 09, 2013	16:30	US	US DOE Distillate Inventories	-3141	-1150	-1680		Chart
+Wed, Oct 09, 2013	16:30	US	US DOE Gasoline Inventories	149	1050	3495		Chart
+Wed, Oct 09, 2013	16:30	US	US DOE Refinery Utilization	-3	-1	-1.3		Chart
+Wed, Oct 02, 2013	16:30	US	US DOE Crude Oil Inventories	5472	2500	2635		Chart
+Wed, Oct 02, 2013	16:30	US	US DOE Distillate Inventories	-1680	-1000	-234		Chart
+Wed, Oct 02, 2013	16:30	US	US DOE Gasoline Inventories	3495	-700	217		Chart
+Wed, Oct 02, 2013	16:30	US	US DOE Refinery Utilization	-1.3	-0.95	-2.2		Chart
+Wed, Sep 25, 2013	16:30	US	US DOE Crude Oil Inventories	2635	-1000	-4368		Chart
+Wed, Sep 25, 2013	16:30	US	US DOE Distillate Inventories	-234	-925	-1079		Chart
+Wed, Sep 25, 2013	16:30	US	US DOE Gasoline Inventories	217	-750	-1627		Chart
+Wed, Sep 25, 2013	16:30	US	US DOE Refinery Utilization	-2.2	-0.88	0		Chart
+Wed, Sep 18, 2013	16:30	US	US DOE Crude Oil Inventories	-4368	-1200	-219		Chart
+Wed, Sep 18, 2013	16:30	US	US DOE Distillate Inventories	-1079	500	2586		Chart
+Wed, Sep 18, 2013	16:30	US	US DOE Gasoline Inventories	-1627	500	1658		Chart
+Wed, Sep 18, 2013	16:30	US	US DOE Refinery Utilization	0	-0.5	0.8		Chart
+Wed, Sep 11, 2013	16:30	US	US DOE Crude Oil Inventories	-219	-2100	-1836		Chart
+Wed, Sep 11, 2013	16:30	US	US DOE Distillate Inventories	2586	600	549		Chart
+Wed, Sep 11, 2013	16:30	US	US DOE Gasoline Inventories	1658	-1000	-1827		Chart
+Wed, Sep 11, 2013	16:30	US	US DOE Refinery Utilization	0.8	-0.9	0.5		Chart
+Thu, Sep 05, 2013	17:00	US	US DOE Crude Oil Inventories	-1836	-2000	2986		Chart
+Thu, Sep 05, 2013	17:00	US	US DOE Distillate Inventories	549	600	-316		Chart
+Thu, Sep 05, 2013	17:00	US	US DOE Gasoline Inventories	-1827	-700	-587		Chart
+Thu, Sep 05, 2013	17:00	US	US DOE Refinery Utilization	0.5	-0.5	0.2		Chart
+Wed, Aug 28, 2013	16:30	US	US DOE Crude Oil Inventories	2986	750	-1428		Chart
+Wed, Aug 28, 2013	16:30	US	US DOE Distillate Inventories	-316	550	871		Chart
+Wed, Aug 28, 2013	16:30	US	US DOE Gasoline Inventories	-587	-1375	-4029		Chart
+Wed, Aug 28, 2013	16:30	US	US DOE Refinery Utilization	0.2	-0.25	1.6		Chart
+Wed, Aug 21, 2013	16:30	US	US DOE Crude Oil Inventories	-1428	-1500	-2812		Chart
+Wed, Aug 21, 2013	16:30	US	US DOE Distillate Inventories	871	1000	2027		Chart
+Wed, Aug 21, 2013	16:30	US	US DOE Gasoline Inventories	-4029	-1500	-1169		Chart
+Wed, Aug 21, 2013	16:30	US	US DOE Refinery Utilization	1.6	-0.5	-1.5		Chart
+Wed, Aug 14, 2013	16:30	US	US DOE Crude Oil Inventories	-2812	-1500	-1320		Chart
+Wed, Aug 14, 2013	16:30	US	US DOE Distillate Inventories	2027	1000	469		Chart
+Wed, Aug 14, 2013	16:30	US	US DOE Gasoline Inventories	-1169	-1600	135		Chart
+Wed, Aug 14, 2013	16:30	US	US DOE Refinery Utilization	-1.5	-0.2	-0.4		Chart
+Wed, Aug 07, 2013	16:30	US	US DOE Crude Oil Inventories	-1320	-1500	431		Chart
+Wed, Aug 07, 2013	16:30	US	US DOE Distillate Inventories	469	0	-466		Chart
+Wed, Aug 07, 2013	16:30	US	US DOE Gasoline Inventories	135	-500	770		Chart
+Wed, Aug 07, 2013	16:30	US	US DOE Refinery Utilization	-0.4	-0.3	-1		Chart
+Wed, Jul 31, 2013	16:30	US	US DOE Crude Oil Inventories	431	-2450	-2825		Chart
+Wed, Jul 31, 2013	16:30	US	US DOE Distillate Inventories	-466	450	-1227		Chart
+Wed, Jul 31, 2013	16:30	US	US DOE Gasoline Inventories	770	-1500	-1389		Chart
+Wed, Jul 31, 2013	16:30	US	US DOE Refinery Utilization	-1	-0.2	-0.5		Chart
+Wed, Jul 24, 2013	16:30	US	US DOE Crude Oil Inventories	-2825	-2800	-6902		Chart
+Wed, Jul 24, 2013	16:30	US	US DOE Distillate Inventories	-1227	1850	3870		Chart
+Wed, Jul 24, 2013	16:30	US	US DOE Gasoline Inventories	-1389	1650	3055		Chart
+Wed, Jul 24, 2013	16:30	US	US DOE Refinery Utilization	-0.5	-0.3	0.4		Chart
+Wed, Jul 17, 2013	16:30	US	US DOE Crude Oil Inventories	-6902	-2000	-9874		Chart
+Wed, Jul 17, 2013	16:30	US	US DOE Distillate Inventories	3870	1500	3038		Chart
+Wed, Jul 17, 2013	16:30	US	US DOE Gasoline Inventories	3055	-1500	-2634		Chart
+Wed, Jul 17, 2013	16:30	US	US DOE Refinery Utilization	0.4	-0.4	0.2		Chart
+Wed, Jul 10, 2013	16:30	US	US DOE Crude Oil Inventories	-9874	-3200	-10347		Chart
+Wed, Jul 10, 2013	16:30	US	US DOE Distillate Inventories	3038	1000	-2418		Chart
+Wed, Jul 10, 2013	16:30	US	US DOE Gasoline Inventories	-2634	1000	-1719		Chart
+Wed, Jul 10, 2013	16:30	US	US DOE Refinery Utilization	0.2	0.2	2		Chart
+Wed, Jul 03, 2013	16:30	US	US DOE Crude Oil Inventories	-10347	-2250	18		Chart
+Wed, Jul 03, 2013	16:30	US	US DOE Distillate Inventories	-2418	1000	1567		Chart
+Wed, Jul 03, 2013	16:30	US	US DOE Gasoline Inventories	-1719	700	3653		Chart
+Wed, Jul 03, 2013	16:30	US	US DOE Refinery Utilization	2	0.5	0.9		Chart
+Wed, Jun 26, 2013	16:30	US	US DOE Crude Oil Inventories	18	-1750	313		Chart
+Wed, Jun 26, 2013	16:30	US	US DOE Distillate Inventories	1567	650	-489		Chart
+Wed, Jun 26, 2013	16:30	US	US DOE Gasoline Inventories	3653	875	183		Chart
+Wed, Jun 26, 2013	16:30	US	US DOE Refinery Utilization	0.9	0.25	1.8		Chart
+Wed, Jun 19, 2013	16:30	US	US DOE Crude Oil Inventories	313	-500	2523		Chart
+Wed, Jun 19, 2013	16:30	US	US DOE Distillate Inventories	-489	925	-1163		Chart
+Wed, Jun 19, 2013	16:30	US	US DOE Gasoline Inventories	183	750	2748		Chart
+Wed, Jun 19, 2013	16:30	US	US DOE Refinery Utilization	1.8	0.5	-0.9		Chart
+Wed, Jun 12, 2013	16:30	US	US DOE Crude Oil Inventories	2523	-1500	-6267		Chart
+Wed, Jun 12, 2013	16:30	US	US DOE Distillate Inventories	-1163	1500	2611		Chart
+Wed, Jun 12, 2013	16:30	US	US DOE Gasoline Inventories	2748	500	-366		Chart
+Wed, Jun 12, 2013	16:30	US	US DOE Refinery Utilization	-0.9	0.3	2		Chart
+Wed, Jun 05, 2013	16:30	US	US DOE Crude Oil Inventories	-6267	-800	3000		Chart
+Wed, Jun 05, 2013	16:30	US	US DOE Distillate Inventories	2611	1400	1851		Chart
+Wed, Jun 05, 2013	16:30	US	US DOE Gasoline Inventories	-366	1000	-1514		Chart
+Wed, Jun 05, 2013	16:30	US	US DOE Refinery Utilization	2	0.6	-0.9		Chart
+Thu, May 30, 2013	17:00	US	US DOE Crude Oil Inventories	3000	-500	-338		Chart
+Thu, May 30, 2013	17:00	US	US DOE Distillate Inventories	1851	-450	-1052		Chart
+Thu, May 30, 2013	17:00	US	US DOE Gasoline Inventories	-1514	-500	3015		Chart
+Thu, May 30, 2013	17:00	US	US DOE Refinery Utilization	-0.9	0.3	-0.7		Chart
+Wed, May 22, 2013	16:30	US	US DOE Crude Oil Inventories	-338	-1000	-624		Chart
+Wed, May 22, 2013	16:30	US	US DOE Distillate Inventories	-1052	1000	2300		Chart
+Wed, May 22, 2013	16:30	US	US DOE Gasoline Inventories	3015	-300	2588		Chart
+Wed, May 22, 2013	16:30	US	US DOE Refinery Utilization	-0.7	0.5	1		Chart
+Wed, May 15, 2013	16:30	US	US DOE Crude Oil Inventories	-624	450	230		Chart
+Wed, May 15, 2013	16:30	US	US DOE Distillate Inventories	2300	475	1812		Chart
+Wed, May 15, 2013	16:30	US	US DOE Gasoline Inventories	2588	-1100	-910		Chart
+Wed, May 15, 2013	16:30	US	US DOE Refinery Utilization	1	0.5	2.6		Chart
