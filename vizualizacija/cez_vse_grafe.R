@@ -1,0 +1,1 @@
+# tukej bo algoritm, ki se bo sprehodil čez vse grafe
