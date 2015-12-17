@@ -5,7 +5,7 @@ library(grid)
 grid.newpage()
 
 # first plot
-aa <- `2013-05-15-10-30/15`
+aa <- `2013-05-15-10-30/10`
 aa <- data.frame(Vrsta = index(aa), aa[,1:9])
 aa$Width <- c(1)
 aa$chg <- ifelse(aa$OilClose > aa$OilOpen, "up", "dn")
@@ -34,7 +34,7 @@ rm(graf,aa)
 
 
 # second plot
-aa <- `2013-05-15-10-30/15`
+aa <- `2013-05-15-10-30/10`
 aa <- data.frame(Vrsta = index(aa), aa[,1:9])
 aa$Width <- c(1)
 aa$chg <- ifelse(aa$CadClose > aa$CadOpen, "up", "dn")
