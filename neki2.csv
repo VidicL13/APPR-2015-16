@@ -1,0 +1,829 @@
+"date","time","which news","actual","forcast","difference"
+"1","Wed, Dec 09, 2015","10:30","US DOE Distillate Inventories",4998,2250,2748
+"2","Wed, Dec 09, 2015","10:30","US DOE Crude Oil Inventories",-3568,1300,-4868
+"3","Wed, Dec 09, 2015","10:30","US DOE Gasoline Inventories",786,1750,-964
+"4","Wed, Dec 09, 2015","10:30","US DOE Refinery Utilization",-1.4,0.5,-1.9
+"5","Wed, Dec 02, 2015","10:30","US DOE Distillate Inventories",3051,500,2551
+"6","Wed, Dec 02, 2015","10:30","US DOE Crude Oil Inventories",1177,-800,1977
+"7","Wed, Dec 02, 2015","10:30","US DOE Gasoline Inventories",135,1550,-1415
+"8","Wed, Dec 02, 2015","10:30","US DOE Refinery Utilization",2.5,0.5,2
+"9","Wed, Nov 25, 2015","10:30","US DOE Distillate Inventories",1046,-750,1796
+"10","Wed, Nov 25, 2015","10:30","US DOE Crude Oil Inventories",961,1000,-39
+"11","Wed, Nov 25, 2015","10:30","US DOE Gasoline Inventories",2478,950,1528
+"12","Wed, Nov 25, 2015","10:30","US DOE Refinery Utilization",1.7,0.4,1.3
+"13","Wed, Nov 18, 2015","10:30","US DOE Distillate Inventories",-791,-500,-291
+"14","Wed, Nov 18, 2015","10:30","US DOE Crude Oil Inventories",252,2000,-1748
+"15","Wed, Nov 18, 2015","10:30","US DOE Gasoline Inventories",1009,-500,1509
+"16","Wed, Nov 18, 2015","10:30","US DOE Refinery Utilization",0.8,0.5,0.3
+"17","Thu, Nov 12, 2015","11:00","US DOE Distillate Inventories",352,-1000,1352
+"18","Thu, Nov 12, 2015","11:00","US DOE Crude Oil Inventories",4224,1300,2924
+"19","Thu, Nov 12, 2015","11:00","US DOE Gasoline Inventories",-2102,-1000,-1102
+"20","Thu, Nov 12, 2015","11:00","US DOE Refinery Utilization",0.8,0.5,0.3
+"21","Wed, Nov 04, 2015","10:30","US DOE Distillate Inventories",-1300,-2000,700
+"22","Wed, Nov 04, 2015","10:30","US DOE Crude Oil Inventories",2847,2500,347
+"23","Wed, Nov 04, 2015","10:30","US DOE Gasoline Inventories",-3300,-1250,-2050
+"24","Wed, Nov 04, 2015","10:30","US DOE Refinery Utilization",1.1,0.3,0.8
+"25","Wed, Oct 28, 2015","10:30","US DOE Distillate Inventories",-2951,-1750,-1201
+"26","Wed, Oct 28, 2015","10:30","US DOE Crude Oil Inventories",3376,3750,-374
+"27","Wed, Oct 28, 2015","10:30","US DOE Gasoline Inventories",-1137,-1050,-87
+"28","Wed, Oct 28, 2015","10:30","US DOE Refinery Utilization",1.2,0,1.2
+"29","Wed, Oct 21, 2015","10:30","US DOE Distillate Inventories",-2622,-1100,-1522
+"30","Wed, Oct 21, 2015","10:30","US DOE Crude Oil Inventories",8028,3750,4278
+"31","Wed, Oct 21, 2015","10:30","US DOE Gasoline Inventories",-1518,-1000,-518
+"32","Wed, Oct 21, 2015","10:30","US DOE Refinery Utilization",0.4,-0.5,0.9
+"33","Thu, Oct 15, 2015","11:00","US DOE Distillate Inventories",-1520,-700,-820
+"34","Thu, Oct 15, 2015","11:00","US DOE Crude Oil Inventories",7562,2577,4985
+"35","Thu, Oct 15, 2015","11:00","US DOE Gasoline Inventories",-2618,-1250,-1368
+"36","Thu, Oct 15, 2015","11:00","US DOE Refinery Utilization",-1.5,-0.58,-0.92
+"37","Wed, Oct 07, 2015","10:30","US DOE Distillate Inventories",-2458,-300,-2158
+"38","Wed, Oct 07, 2015","10:30","US DOE Crude Oil Inventories",3073,2250,823
+"39","Wed, Oct 07, 2015","10:30","US DOE Gasoline Inventories",1910,250,1660
+"40","Wed, Oct 07, 2015","10:30","US DOE Refinery Utilization",-2.3,-0.5,-1.8
+"41","Wed, Sep 30, 2015","10:30","US DOE Distillate Inventories",-267,-800,533
+"42","Wed, Sep 30, 2015","10:30","US DOE Crude Oil Inventories",3955,0,3955
+"43","Wed, Sep 30, 2015","10:30","US DOE Gasoline Inventories",3254,-500,3754
+"44","Wed, Sep 30, 2015","10:30","US DOE Refinery Utilization",-1.1,-0.45,-0.65
+"45","Wed, Sep 23, 2015","10:30","US DOE Distillate Inventories",-2088,950,-3038
+"46","Wed, Sep 23, 2015","10:30","US DOE Crude Oil Inventories",-1925,-1250,-675
+"47","Wed, Sep 23, 2015","10:30","US DOE Gasoline Inventories",1369,850,519
+"48","Wed, Sep 23, 2015","10:30","US DOE Refinery Utilization",-2.2,-0.5,-1.7
+"49","Wed, Sep 16, 2015","10:30","US DOE Distillate Inventories",3060,300,2760
+"50","Wed, Sep 16, 2015","10:30","US DOE Crude Oil Inventories",-2104,2000,-4104
+"51","Wed, Sep 16, 2015","10:30","US DOE Gasoline Inventories",2840,-500,3340
+"52","Wed, Sep 16, 2015","10:30","US DOE Refinery Utilization",2.2,-0.55,2.75
+"53","Thu, Sep 10, 2015","11:00","US DOE Distillate Inventories",952,900,52
+"54","Thu, Sep 10, 2015","11:00","US DOE Crude Oil Inventories",2570,900,1670
+"55","Thu, Sep 10, 2015","11:00","US DOE Gasoline Inventories",384,-150,534
+"56","Thu, Sep 10, 2015","11:00","US DOE Refinery Utilization",-1.9,-0.5,-1.4
+"57","Wed, Sep 02, 2015","10:30","US DOE Distillate Inventories",115,1000,-885
+"58","Wed, Sep 02, 2015","10:30","US DOE Crude Oil Inventories",4667,900,3767
+"59","Wed, Sep 02, 2015","10:30","US DOE Gasoline Inventories",-271,-2000,1729
+"60","Wed, Sep 02, 2015","10:30","US DOE Refinery Utilization",-1.7,-0.5,-1.2
+"61","Wed, Aug 26, 2015","10:30","US DOE Distillate Inventories",1436,1020,416
+"62","Wed, Aug 26, 2015","10:30","US DOE Crude Oil Inventories",-5452,1450,-6902
+"63","Wed, Aug 26, 2015","10:30","US DOE Gasoline Inventories",1660,-950,2610
+"64","Wed, Aug 26, 2015","10:30","US DOE Refinery Utilization",-0.6,-0.5,-0.1
+"65","Wed, Aug 19, 2015","10:30","US DOE Distillate Inventories",594,1500,-906
+"66","Wed, Aug 19, 2015","10:30","US DOE Crude Oil Inventories",2620,-820,3440
+"67","Wed, Aug 19, 2015","10:30","US DOE Gasoline Inventories",-2708,-1250,-1458
+"68","Wed, Aug 19, 2015","10:30","US DOE Refinery Utilization",-1,-0.5,-0.5
+"69","Wed, Aug 12, 2015","10:30","US DOE Distillate Inventories",2994,1050,1944
+"70","Wed, Aug 12, 2015","10:30","US DOE Crude Oil Inventories",-1682,-2000,318
+"71","Wed, Aug 12, 2015","10:30","US DOE Gasoline Inventories",-1251,-675,-576
+"72","Wed, Aug 12, 2015","10:30","US DOE Refinery Utilization",0,-0.5,0.5
+"73","Wed, Aug 05, 2015","10:30","US DOE Distillate Inventories",709,1750,-1041
+"74","Wed, Aug 05, 2015","10:30","US DOE Crude Oil Inventories",-4407,-1630,-2777
+"75","Wed, Aug 05, 2015","10:30","US DOE Gasoline Inventories",811,-200,1011
+"76","Wed, Aug 05, 2015","10:30","US DOE Refinery Utilization",1,-0.1,1.1
+"77","Wed, Jul 29, 2015","10:30","US DOE Distillate Inventories",2588,1450,1138
+"78","Wed, Jul 29, 2015","10:30","US DOE Crude Oil Inventories",-4203,850,-5053
+"79","Wed, Jul 29, 2015","10:30","US DOE Gasoline Inventories",-363,250,-613
+"80","Wed, Jul 29, 2015","10:30","US DOE Refinery Utilization",-0.4,-0.1,-0.3
+"81","Wed, Jul 22, 2015","10:30","US DOE Distillate Inventories",235,1800,-1565
+"82","Wed, Jul 22, 2015","10:30","US DOE Crude Oil Inventories",2468,-2200,4668
+"83","Wed, Jul 22, 2015","10:30","US DOE Gasoline Inventories",-1725,300,-2025
+"84","Wed, Jul 22, 2015","10:30","US DOE Refinery Utilization",0.2,0,0.2
+"85","Wed, Jul 15, 2015","10:30","US DOE Distillate Inventories",3819,1460,2359
+"86","Wed, Jul 15, 2015","10:30","US DOE Crude Oil Inventories",-4346,-1900,-2446
+"87","Wed, Jul 15, 2015","10:30","US DOE Gasoline Inventories",58,450,-392
+"88","Wed, Jul 15, 2015","10:30","US DOE Refinery Utilization",0.6,0.1,0.5
+"89","Wed, Jul 08, 2015","10:30","US DOE Distillate Inventories",1641,1000,641
+"90","Wed, Jul 08, 2015","10:30","US DOE Crude Oil Inventories",384,0,384
+"91","Wed, Jul 08, 2015","10:30","US DOE Gasoline Inventories",1215,0,1215
+"92","Wed, Jul 08, 2015","10:30","US DOE Refinery Utilization",-0.3,0.2,-0.5
+"93","Wed, Jul 01, 2015","10:30","US DOE Distillate Inventories",392,1500,-1108
+"94","Wed, Jul 01, 2015","10:30","US DOE Crude Oil Inventories",2386,-2500,4886
+"95","Wed, Jul 01, 2015","10:30","US DOE Gasoline Inventories",-1757,-250,-1507
+"96","Wed, Jul 01, 2015","10:30","US DOE Refinery Utilization",1,0.38,0.62
+"97","Wed, Jun 24, 2015","10:30","US DOE Distillate Inventories",1837,700,1137
+"98","Wed, Jun 24, 2015","10:30","US DOE Crude Oil Inventories",-4934,-2000,-2934
+"99","Wed, Jun 24, 2015","10:30","US DOE Gasoline Inventories",680,0,680
+"100","Wed, Jun 24, 2015","10:30","US DOE Refinery Utilization",0.9,0.45,0.45
+"101","Wed, Jun 17, 2015","10:30","US DOE Distillate Inventories",114,950,-836
+"102","Wed, Jun 17, 2015","10:30","US DOE Crude Oil Inventories",-2676,-1800,-876
+"103","Wed, Jun 17, 2015","10:30","US DOE Gasoline Inventories",460,-800,1260
+"104","Wed, Jun 17, 2015","10:30","US DOE Refinery Utilization",-1.5,0.5,-2
+"105","Wed, Jun 10, 2015","10:30","US DOE Distillate Inventories",865,700,165
+"106","Wed, Jun 10, 2015","10:30","US DOE Crude Oil Inventories",-6812,-1500,-5312
+"107","Wed, Jun 10, 2015","10:30","US DOE Gasoline Inventories",-2939,-400,-2539
+"108","Wed, Jun 10, 2015","10:30","US DOE Refinery Utilization",1.4,0.1,1.3
+"109","Wed, Jun 03, 2015","10:30","US DOE Distillate Inventories",3773,1300,2473
+"110","Wed, Jun 03, 2015","10:30","US DOE Crude Oil Inventories",-1948,-2500,552
+"111","Wed, Jun 03, 2015","10:30","US DOE Gasoline Inventories",-334,500,-834
+"112","Wed, Jun 03, 2015","10:30","US DOE Refinery Utilization",-0.4,0.6,-1
+"113","Thu, May 28, 2015","11:00","US DOE Distillate Inventories",1115,-400,1515
+"114","Thu, May 28, 2015","11:00","US DOE Crude Oil Inventories",-2802,-2000,-802
+"115","Thu, May 28, 2015","11:00","US DOE Gasoline Inventories",-3309,-1300,-2009
+"116","Thu, May 28, 2015","11:00","US DOE Refinery Utilization",1.2,0.3,0.9
+"117","Wed, May 20, 2015","10:30","US DOE Distillate Inventories",-546,400,-946
+"118","Wed, May 20, 2015","10:30","US DOE Crude Oil Inventories",-2674,-1750,-924
+"119","Wed, May 20, 2015","10:30","US DOE Gasoline Inventories",-2774,650,-3424
+"120","Wed, May 20, 2015","10:30","US DOE Refinery Utilization",92.4,0.3,92.1
+"121","Wed, May 13, 2015","10:30","US DOE Distillate Inventories",-2503,750,-3253
+"122","Wed, May 13, 2015","10:30","US DOE Crude Oil Inventories",-2191,-250,-1941
+"123","Wed, May 13, 2015","10:30","US DOE Gasoline Inventories",-1142,250,-1392
+"124","Wed, May 13, 2015","10:30","US DOE Refinery Utilization",-1.8,0.5,-2.3
+"125","Wed, May 06, 2015","10:30","US DOE Distillate Inventories",1503,0,1503
+"126","Wed, May 06, 2015","10:30","US DOE Crude Oil Inventories",-3882,1500,-5382
+"127","Wed, May 06, 2015","10:30","US DOE Gasoline Inventories",401,1000,-599
+"128","Wed, May 06, 2015","10:30","US DOE Refinery Utilization",1.7,0.5,1.2
+"129","Wed, Apr 29, 2015","10:30","US DOE Distillate Inventories",-66,1000,-1066
+"130","Wed, Apr 29, 2015","10:30","US DOE Crude Oil Inventories",1910,3300,-1390
+"131","Wed, Apr 29, 2015","10:30","US DOE Gasoline Inventories",1713,900,813
+"132","Wed, Apr 29, 2015","10:30","US DOE Refinery Utilization",0.1,0.65,-0.55
+"133","Wed, Apr 22, 2015","10:30","US DOE Distillate Inventories",395,1100,-705
+"134","Wed, Apr 22, 2015","10:30","US DOE Crude Oil Inventories",5315,3200,2115
+"135","Wed, Apr 22, 2015","10:30","US DOE Gasoline Inventories",-2135,-1000,-1135
+"136","Wed, Apr 22, 2015","10:30","US DOE Refinery Utilization",-1.1,0.5,-1.6
+"137","Wed, Apr 15, 2015","10:30","US DOE Distillate Inventories",2017,700,1317
+"138","Wed, Apr 15, 2015","10:30","US DOE Crude Oil Inventories",1294,3600,-2306
+"139","Wed, Apr 15, 2015","10:30","US DOE Gasoline Inventories",-2072,-750,-1322
+"140","Wed, Apr 15, 2015","10:30","US DOE Refinery Utilization",2.2,0.5,1.7
+"141","Wed, Apr 08, 2015","10:30","US DOE Distillate Inventories",-250,850,-1100
+"142","Wed, Apr 08, 2015","10:30","US DOE Crude Oil Inventories",10949,3250,7699
+"143","Wed, Apr 08, 2015","10:30","US DOE Gasoline Inventories",817,-2000,2817
+"144","Wed, Apr 08, 2015","10:30","US DOE Refinery Utilization",0.7,0.4,0.3
+"145","Wed, Apr 01, 2015","10:30","US DOE Distillate Inventories",1325,0,1325
+"146","Wed, Apr 01, 2015","10:30","US DOE Crude Oil Inventories",4766,4200,566
+"147","Wed, Apr 01, 2015","10:30","US DOE Gasoline Inventories",-4258,-650,-3608
+"148","Wed, Apr 01, 2015","10:30","US DOE Refinery Utilization",0.4,0.6,-0.2
+"149","Wed, Mar 25, 2015","10:30","US DOE Distillate Inventories",-34,-1000,966
+"150","Wed, Mar 25, 2015","10:30","US DOE Crude Oil Inventories",8170,4750,3420
+"151","Wed, Mar 25, 2015","10:30","US DOE Gasoline Inventories",-2014,-2300,286
+"152","Wed, Mar 25, 2015","10:30","US DOE Refinery Utilization",0.9,0.5,0.4
+"153","Wed, Mar 18, 2015","10:30","US DOE Distillate Inventories",380,-1500,1880
+"154","Wed, Mar 18, 2015","10:30","US DOE Crude Oil Inventories",9622,4400,5222
+"155","Wed, Mar 18, 2015","10:30","US DOE Gasoline Inventories",-4473,-900,-3573
+"156","Wed, Mar 18, 2015","10:30","US DOE Refinery Utilization",0.3,0.4,-0.1
+"157","Wed, Mar 11, 2015","10:30","US DOE Distillate Inventories",2527,-2250,4777
+"158","Wed, Mar 11, 2015","10:30","US DOE Crude Oil Inventories",4512,4750,-238
+"159","Wed, Mar 11, 2015","10:30","US DOE Gasoline Inventories",-187,-1750,1563
+"160","Wed, Mar 11, 2015","10:30","US DOE Refinery Utilization",1.2,-0.5,1.7
+"161","Wed, Mar 04, 2015","10:30","US DOE Distillate Inventories",-1722,-2500,778
+"162","Wed, Mar 04, 2015","10:30","US DOE Crude Oil Inventories",10303,3950,6353
+"163","Wed, Mar 04, 2015","10:30","US DOE Gasoline Inventories",46,-2000,2046
+"164","Wed, Mar 04, 2015","10:30","US DOE Refinery Utilization",-0.8,-0.5,-0.3
+"165","Wed, Feb 25, 2015","10:30","US DOE Distillate Inventories",-2711,-3500,789
+"166","Wed, Feb 25, 2015","10:30","US DOE Crude Oil Inventories",8427,4000,4427
+"167","Wed, Feb 25, 2015","10:30","US DOE Gasoline Inventories",-3118,-2000,-1118
+"168","Wed, Feb 25, 2015","10:30","US DOE Refinery Utilization",-1.3,-0.35,-0.95
+"169","Thu, Feb 19, 2015","11:00","US DOE Distillate Inventories",-3814,-2000,-1814
+"170","Thu, Feb 19, 2015","11:00","US DOE Crude Oil Inventories",7716,3000,4716
+"171","Thu, Feb 19, 2015","11:00","US DOE Gasoline Inventories",485,-650,1135
+"172","Thu, Feb 19, 2015","11:00","US DOE Refinery Utilization",-1.3,-1,-0.3
+"173","Wed, Feb 11, 2015","10:30","US DOE Distillate Inventories",-3252,-1250,-2002
+"174","Wed, Feb 11, 2015","10:30","US DOE Crude Oil Inventories",4868,3750,1118
+"175","Wed, Feb 11, 2015","10:30","US DOE Gasoline Inventories",1977,200,1777
+"176","Wed, Feb 11, 2015","10:30","US DOE Refinery Utilization",0.1,0,0.1
+"177","Wed, Feb 04, 2015","10:30","US DOE Distillate Inventories",1788,-1500,3288
+"178","Wed, Feb 04, 2015","10:30","US DOE Crude Oil Inventories",6333,3250,3083
+"179","Wed, Feb 04, 2015","10:30","US DOE Gasoline Inventories",2335,-1150,3485
+"180","Wed, Feb 04, 2015","10:30","US DOE Refinery Utilization",1.9,-0.5,2.4
+"181","Wed, Jan 28, 2015","10:30","US DOE Distillate Inventories",-3892,-1500,-2392
+"182","Wed, Jan 28, 2015","10:30","US DOE Crude Oil Inventories",8874,3850,5024
+"183","Wed, Jan 28, 2015","10:30","US DOE Gasoline Inventories",-2587,500,-3087
+"184","Wed, Jan 28, 2015","10:30","US DOE Refinery Utilization",2.5,0.2,2.3
+"185","Thu, Jan 22, 2015","11:00","US DOE Distillate Inventories",-3272,500,-3772
+"186","Thu, Jan 22, 2015","11:00","US DOE Crude Oil Inventories",10071,2700,7371
+"187","Thu, Jan 22, 2015","11:00","US DOE Gasoline Inventories",588,1500,-912
+"188","Thu, Jan 22, 2015","11:00","US DOE Refinery Utilization",-5.5,-0.65,-4.85
+"189","Wed, Jan 14, 2015","10:30","US DOE Distillate Inventories",2925,2100,825
+"190","Wed, Jan 14, 2015","10:30","US DOE Crude Oil Inventories",5389,1750,3639
+"191","Wed, Jan 14, 2015","10:30","US DOE Gasoline Inventories",3171,3750,-579
+"192","Wed, Jan 14, 2015","10:30","US DOE Refinery Utilization",-2.9,-0.25,-2.65
+"193","Wed, Jan 07, 2015","10:30","US DOE Distillate Inventories",11205,1750,9455
+"194","Wed, Jan 07, 2015","10:30","US DOE Crude Oil Inventories",-3062,700,-3762
+"195","Wed, Jan 07, 2015","10:30","US DOE Gasoline Inventories",8115,4500,3615
+"196","Wed, Jan 07, 2015","10:30","US DOE Refinery Utilization",-0.5,0,-0.5
+"197","Wed, Dec 31, 2014","10:30","US DOE Distillate Inventories",1874,2000,-126
+"198","Wed, Dec 31, 2014","10:30","US DOE Crude Oil Inventories",-1754,900,-2654
+"199","Wed, Dec 31, 2014","10:30","US DOE Gasoline Inventories",2951,2000,951
+"200","Wed, Dec 31, 2014","10:30","US DOE Refinery Utilization",0.9,0,0.9
+"201","Wed, Dec 24, 2014","10:30","US DOE Distillate Inventories",2303,-1000,3303
+"202","Wed, Dec 24, 2014","10:30","US DOE Crude Oil Inventories",7267,-2500,9767
+"203","Wed, Dec 24, 2014","10:30","US DOE Gasoline Inventories",4083,1000,3083
+"204","Wed, Dec 24, 2014","10:30","US DOE Refinery Utilization",0,0,0
+"205","Wed, Dec 17, 2014","10:30","US DOE Distillate Inventories",-207,150,-357
+"206","Wed, Dec 17, 2014","10:30","US DOE Crude Oil Inventories",-847,-2250,1403
+"207","Wed, Dec 17, 2014","10:30","US DOE Gasoline Inventories",5250,1750,3500
+"208","Wed, Dec 17, 2014","10:30","US DOE Refinery Utilization",-1.9,-0.13,-1.77
+"209","Wed, Dec 10, 2014","10:30","US DOE Distillate Inventories",5577,1550,4027
+"210","Wed, Dec 10, 2014","10:30","US DOE Crude Oil Inventories",1454,-2700,4154
+"211","Wed, Dec 10, 2014","10:30","US DOE Gasoline Inventories",8197,2550,5647
+"212","Wed, Dec 10, 2014","10:30","US DOE Refinery Utilization",2,0.3,1.7
+"213","Wed, Dec 03, 2014","10:30","US DOE Distillate Inventories",3028,550,2478
+"214","Wed, Dec 03, 2014","10:30","US DOE Crude Oil Inventories",-3689,1750,-5439
+"215","Wed, Dec 03, 2014","10:30","US DOE Gasoline Inventories",2143,1500,643
+"216","Wed, Dec 03, 2014","10:30","US DOE Refinery Utilization",1.9,0.5,1.4
+"217","Wed, Nov 26, 2014","10:30","US DOE Distillate Inventories",-1648,-900,-748
+"218","Wed, Nov 26, 2014","10:30","US DOE Crude Oil Inventories",1946,250,1696
+"219","Wed, Nov 26, 2014","10:30","US DOE Gasoline Inventories",1825,1500,325
+"220","Wed, Nov 26, 2014","10:30","US DOE Refinery Utilization",0.3,0.15,0.15
+"221","Wed, Nov 19, 2014","10:30","US DOE Distillate Inventories",-2056,-2000,-56
+"222","Wed, Nov 19, 2014","10:30","US DOE Crude Oil Inventories",2608,-1500,4108
+"223","Wed, Nov 19, 2014","10:30","US DOE Gasoline Inventories",1034,900,134
+"224","Wed, Nov 19, 2014","10:30","US DOE Refinery Utilization",1.1,0.5,0.6
+"225","Thu, Nov 13, 2014","11:00","US DOE Distillate Inventories",-2803,-1500,-1303
+"226","Thu, Nov 13, 2014","11:00","US DOE Crude Oil Inventories",-1735,1050,-2785
+"227","Thu, Nov 13, 2014","11:00","US DOE Gasoline Inventories",1805,200,1605
+"228","Thu, Nov 13, 2014","11:00","US DOE Refinery Utilization",1.7,1,0.7
+"229","Wed, Nov 05, 2014","10:30","US DOE Distillate Inventories",-724,-2200,1476
+"230","Wed, Nov 05, 2014","10:30","US DOE Crude Oil Inventories",460,2350,-1890
+"231","Wed, Nov 05, 2014","10:30","US DOE Gasoline Inventories",-1378,-600,-778
+"232","Wed, Nov 05, 2014","10:30","US DOE Refinery Utilization",1.8,0.3,1.5
+"233","Wed, Oct 29, 2014","10:30","US DOE Distillate Inventories",-5294,-1400,-3894
+"234","Wed, Oct 29, 2014","10:30","US DOE Crude Oil Inventories",2061,3650,-1589
+"235","Wed, Oct 29, 2014","10:30","US DOE Gasoline Inventories",-1236,-900,-336
+"236","Wed, Oct 29, 2014","10:30","US DOE Refinery Utilization",-0.1,0.25,-0.35
+"237","Wed, Oct 22, 2014","10:30","US DOE Distillate Inventories",1049,-1300,2349
+"238","Wed, Oct 22, 2014","10:30","US DOE Crude Oil Inventories",7111,3000,4111
+"239","Wed, Oct 22, 2014","10:30","US DOE Gasoline Inventories",-1299,-1450,151
+"240","Wed, Oct 22, 2014","10:30","US DOE Refinery Utilization",-1.4,0.03,-1.43
+"241","Thu, Oct 16, 2014","11:00","US DOE Distillate Inventories",-1518,-1800,282
+"242","Thu, Oct 16, 2014","11:00","US DOE Crude Oil Inventories",8923,2450,6473
+"243","Thu, Oct 16, 2014","11:00","US DOE Gasoline Inventories",-3995,-1700,-2295
+"244","Thu, Oct 16, 2014","11:00","US DOE Refinery Utilization",-1.2,-0.75,-0.45
+"245","Wed, Oct 08, 2014","10:30","US DOE Distillate Inventories",439,-1250,1689
+"246","Wed, Oct 08, 2014","10:30","US DOE Crude Oil Inventories",5015,2000,3015
+"247","Wed, Oct 08, 2014","10:30","US DOE Gasoline Inventories",1180,-500,1680
+"248","Wed, Oct 08, 2014","10:30","US DOE Refinery Utilization",-0.5,-0.8,0.3
+"249","Wed, Oct 01, 2014","10:30","US DOE Distillate Inventories",-2894,0,-2894
+"250","Wed, Oct 01, 2014","10:30","US DOE Crude Oil Inventories",-1363,1500,-2863
+"251","Wed, Oct 01, 2014","10:30","US DOE Gasoline Inventories",-1836,-600,-1236
+"252","Wed, Oct 01, 2014","10:30","US DOE Refinery Utilization",-3.6,-0.55,-3.05
+"253","Wed, Sep 24, 2014","10:30","US DOE Distillate Inventories",823,500,323
+"254","Wed, Sep 24, 2014","10:30","US DOE Crude Oil Inventories",-4273,750,-5023
+"255","Wed, Sep 24, 2014","10:30","US DOE Gasoline Inventories",-414,0,-414
+"256","Wed, Sep 24, 2014","10:30","US DOE Refinery Utilization",0.4,-0.5,0.9
+"257","Wed, Sep 17, 2014","10:30","US DOE Distillate Inventories",279,750,-471
+"258","Wed, Sep 17, 2014","10:30","US DOE Crude Oil Inventories",3673,-1500,5173
+"259","Wed, Sep 17, 2014","10:30","US DOE Gasoline Inventories",-1635,-125,-1510
+"260","Wed, Sep 17, 2014","10:30","US DOE Refinery Utilization",-0.9,-0.65,-0.25
+"261","Wed, Sep 10, 2014","10:30","US DOE Distillate Inventories",4093,1000,3093
+"262","Wed, Sep 10, 2014","10:30","US DOE Crude Oil Inventories",-972,-1500,528
+"263","Wed, Sep 10, 2014","10:30","US DOE Gasoline Inventories",2381,0,2381
+"264","Wed, Sep 10, 2014","10:30","US DOE Refinery Utilization",0.6,-0.25,0.85
+"265","Thu, Sep 04, 2014","11:00","US DOE Distillate Inventories",605,-1000,1605
+"266","Thu, Sep 04, 2014","11:00","US DOE Crude Oil Inventories",-905,-1000,95
+"267","Thu, Sep 04, 2014","11:00","US DOE Gasoline Inventories",-2322,-1400,-922
+"268","Thu, Sep 04, 2014","11:00","US DOE Refinery Utilization",-0.2,-0.4,0.2
+"269","Wed, Aug 27, 2014","10:30","US DOE Distillate Inventories",1252,0,1252
+"270","Wed, Aug 27, 2014","10:30","US DOE Crude Oil Inventories",-2070,-2500,430
+"271","Wed, Aug 27, 2014","10:30","US DOE Gasoline Inventories",-960,-1600,640
+"272","Wed, Aug 27, 2014","10:30","US DOE Refinery Utilization",0.1,-0.35,0.45
+"273","Wed, Aug 20, 2014","10:30","US DOE Distillate Inventories",-960,-300,-660
+"274","Wed, Aug 20, 2014","10:30","US DOE Crude Oil Inventories",-4474,-1750,-2724
+"275","Wed, Aug 20, 2014","10:30","US DOE Gasoline Inventories",585,-1550,2135
+"276","Wed, Aug 20, 2014","10:30","US DOE Refinery Utilization",1.8,-0.4,2.2
+"277","Wed, Aug 13, 2014","10:30","US DOE Distillate Inventories",-2421,-50,-2371
+"278","Wed, Aug 13, 2014","10:30","US DOE Crude Oil Inventories",1401,-2050,3451
+"279","Wed, Aug 13, 2014","10:30","US DOE Gasoline Inventories",-1160,-1500,340
+"280","Wed, Aug 13, 2014","10:30","US DOE Refinery Utilization",-0.8,-0.5,-0.3
+"281","Wed, Aug 06, 2014","10:30","US DOE Distillate Inventories",-1798,850,-2648
+"282","Wed, Aug 06, 2014","10:30","US DOE Crude Oil Inventories",-1756,-1550,-206
+"283","Wed, Aug 06, 2014","10:30","US DOE Gasoline Inventories",-4387,0,-4387
+"284","Wed, Aug 06, 2014","10:30","US DOE Refinery Utilization",-1.1,-0.6,-0.5
+"285","Wed, Jul 30, 2014","10:30","US DOE Distillate Inventories",789,1500,-711
+"286","Wed, Jul 30, 2014","10:30","US DOE Crude Oil Inventories",-3697,-1250,-2447
+"287","Wed, Jul 30, 2014","10:30","US DOE Gasoline Inventories",365,1000,-635
+"288","Wed, Jul 30, 2014","10:30","US DOE Refinery Utilization",-0.3,-0.2,-0.1
+"289","Wed, Jul 23, 2014","10:30","US DOE Distillate Inventories",1636,2000,-364
+"290","Wed, Jul 23, 2014","10:30","US DOE Crude Oil Inventories",-3969,-2900,-1069
+"291","Wed, Jul 23, 2014","10:30","US DOE Gasoline Inventories",3379,1000,2379
+"292","Wed, Jul 23, 2014","10:30","US DOE Refinery Utilization",0,0.05,-0.05
+"293","Wed, Jul 16, 2014","10:30","US DOE Distillate Inventories",2528,2000,528
+"294","Wed, Jul 16, 2014","10:30","US DOE Crude Oil Inventories",-7525,-2750,-4775
+"295","Wed, Jul 16, 2014","10:30","US DOE Gasoline Inventories",171,950,-779
+"296","Wed, Jul 16, 2014","10:30","US DOE Refinery Utilization",2.2,0,2.2
+"297","Wed, Jul 09, 2014","10:30","US DOE Distillate Inventories",227,1400,-1173
+"298","Wed, Jul 09, 2014","10:30","US DOE Crude Oil Inventories",-2370,-2500,130
+"299","Wed, Jul 09, 2014","10:30","US DOE Gasoline Inventories",579,-400,979
+"300","Wed, Jul 09, 2014","10:30","US DOE Refinery Utilization",0.2,0.15,0.05
+"301","Wed, Jul 02, 2014","10:30","US DOE Distillate Inventories",975,950,25
+"302","Wed, Jul 02, 2014","10:30","US DOE Crude Oil Inventories",-3155,-2400,-755
+"303","Wed, Jul 02, 2014","10:30","US DOE Gasoline Inventories",-1235,550,-1785
+"304","Wed, Jul 02, 2014","10:30","US DOE Refinery Utilization",2.9,0.5,2.4
+"305","Wed, Jun 25, 2014","10:30","US DOE Distillate Inventories",1177,850,327
+"306","Wed, Jun 25, 2014","10:30","US DOE Crude Oil Inventories",1742,-1700,3442
+"307","Wed, Jun 25, 2014","10:30","US DOE Gasoline Inventories",710,1450,-740
+"308","Wed, Jun 25, 2014","10:30","US DOE Refinery Utilization",1.4,0.5,0.9
+"309","Wed, Jun 18, 2014","10:30","US DOE Distillate Inventories",436,350,86
+"310","Wed, Jun 18, 2014","10:30","US DOE Crude Oil Inventories",-579,-750,171
+"311","Wed, Jun 18, 2014","10:30","US DOE Gasoline Inventories",785,-550,1335
+"312","Wed, Jun 18, 2014","10:30","US DOE Refinery Utilization",-0.8,0.7,-1.5
+"313","Wed, Jun 11, 2014","10:30","US DOE Distillate Inventories",860,1000,-140
+"314","Wed, Jun 11, 2014","10:30","US DOE Crude Oil Inventories",-2596,-2000,-596
+"315","Wed, Jun 11, 2014","10:30","US DOE Gasoline Inventories",1697,1000,697
+"316","Wed, Jun 11, 2014","10:30","US DOE Refinery Utilization",-2.9,0.25,-3.15
+"317","Wed, Jun 04, 2014","10:30","US DOE Distillate Inventories",2012,900,1112
+"318","Wed, Jun 04, 2014","10:30","US DOE Crude Oil Inventories",-3431,-250,-3181
+"319","Wed, Jun 04, 2014","10:30","US DOE Gasoline Inventories",210,400,-190
+"320","Wed, Jun 04, 2014","10:30","US DOE Refinery Utilization",0.9,0.5,0.4
+"321","Thu, May 29, 2014","11:00","US DOE Distillate Inventories",-196,500,-696
+"322","Thu, May 29, 2014","11:00","US DOE Crude Oil Inventories",1657,500,1157
+"323","Thu, May 29, 2014","11:00","US DOE Gasoline Inventories",-1803,0,-1803
+"324","Thu, May 29, 2014","11:00","US DOE Refinery Utilization",1.2,0.5,0.7
+"325","Wed, May 21, 2014","10:30","US DOE Distillate Inventories",3399,-500,3899
+"326","Wed, May 21, 2014","10:30","US DOE Crude Oil Inventories",-7226,0,-7226
+"327","Wed, May 21, 2014","10:30","US DOE Gasoline Inventories",970,0,970
+"328","Wed, May 21, 2014","10:30","US DOE Refinery Utilization",-0.1,0.45,-0.55
+"329","Wed, May 14, 2014","10:30","US DOE Distillate Inventories",-1124,500,-1624
+"330","Wed, May 14, 2014","10:30","US DOE Crude Oil Inventories",947,0,947
+"331","Wed, May 14, 2014","10:30","US DOE Gasoline Inventories",-772,300,-1072
+"332","Wed, May 14, 2014","10:30","US DOE Refinery Utilization",-1.4,0.5,-1.9
+"333","Wed, May 07, 2014","10:30","US DOE Distillate Inventories",-447,750,-1197
+"334","Wed, May 07, 2014","10:30","US DOE Crude Oil Inventories",-1781,1250,-3031
+"335","Wed, May 07, 2014","10:30","US DOE Gasoline Inventories",1608,500,1108
+"336","Wed, May 07, 2014","10:30","US DOE Refinery Utilization",-0.8,0.5,-1.3
+"337","Wed, Apr 30, 2014","10:30","US DOE Distillate Inventories",1936,500,1436
+"338","Wed, Apr 30, 2014","10:30","US DOE Crude Oil Inventories",1698,2200,-502
+"339","Wed, Apr 30, 2014","10:30","US DOE Gasoline Inventories",1564,-900,2464
+"340","Wed, Apr 30, 2014","10:30","US DOE Refinery Utilization",0,0.5,-0.5
+"341","Wed, Apr 23, 2014","10:30","US DOE Distillate Inventories",597,-300,897
+"342","Wed, Apr 23, 2014","10:30","US DOE Crude Oil Inventories",3524,3000,524
+"343","Wed, Apr 23, 2014","10:30","US DOE Gasoline Inventories",-274,-1650,1376
+"344","Wed, Apr 23, 2014","10:30","US DOE Refinery Utilization",2.2,0.2,2
+"345","Wed, Apr 16, 2014","10:30","US DOE Distillate Inventories",-1278,0,-1278
+"346","Wed, Apr 16, 2014","10:30","US DOE Crude Oil Inventories",10013,1750,8263
+"347","Wed, Apr 16, 2014","10:30","US DOE Gasoline Inventories",-154,-1750,1596
+"348","Wed, Apr 16, 2014","10:30","US DOE Refinery Utilization",1.3,0,1.3
+"349","Wed, Apr 09, 2014","10:30","US DOE Distillate Inventories",239,-250,489
+"350","Wed, Apr 09, 2014","10:30","US DOE Crude Oil Inventories",4030,750,3280
+"351","Wed, Apr 09, 2014","10:30","US DOE Gasoline Inventories",-5188,-1000,-4188
+"352","Wed, Apr 09, 2014","10:30","US DOE Refinery Utilization",-0.2,0.2,-0.4
+"353","Wed, Apr 02, 2014","10:30","US DOE Distillate Inventories",554,0,554
+"354","Wed, Apr 02, 2014","10:30","US DOE Crude Oil Inventories",-2379,2500,-4879
+"355","Wed, Apr 02, 2014","10:30","US DOE Gasoline Inventories",-1574,-2000,426
+"356","Wed, Apr 02, 2014","10:30","US DOE Refinery Utilization",1.7,0.35,1.35
+"357","Wed, Mar 26, 2014","10:30","US DOE Distillate Inventories",1555,-1380,2935
+"358","Wed, Mar 26, 2014","10:30","US DOE Crude Oil Inventories",6619,2500,4119
+"359","Wed, Mar 26, 2014","10:30","US DOE Gasoline Inventories",-5101,-1500,-3601
+"360","Wed, Mar 26, 2014","10:30","US DOE Refinery Utilization",0.4,0.55,-0.15
+"361","Wed, Mar 19, 2014","10:30","US DOE Distillate Inventories",-3097,-800,-2297
+"362","Wed, Mar 19, 2014","10:30","US DOE Crude Oil Inventories",5850,2750,3100
+"363","Wed, Mar 19, 2014","10:30","US DOE Gasoline Inventories",-1467,-1550,83
+"364","Wed, Mar 19, 2014","10:30","US DOE Refinery Utilization",-0.4,-0.5,0.1
+"365","Wed, Mar 12, 2014","10:30","US DOE Distillate Inventories",-533,-450,-83
+"366","Wed, Mar 12, 2014","10:30","US DOE Crude Oil Inventories",6180,2000,4180
+"367","Wed, Mar 12, 2014","10:30","US DOE Gasoline Inventories",-5230,-2000,-3230
+"368","Wed, Mar 12, 2014","10:30","US DOE Refinery Utilization",-1.4,0,-1.4
+"369","Wed, Mar 05, 2014","10:30","US DOE Distillate Inventories",1414,-1000,2414
+"370","Wed, Mar 05, 2014","10:30","US DOE Crude Oil Inventories",1429,1300,129
+"371","Wed, Mar 05, 2014","10:30","US DOE Gasoline Inventories",-1604,-1000,-604
+"372","Wed, Mar 05, 2014","10:30","US DOE Refinery Utilization",-0.6,-0.3,-0.3
+"373","Wed, Feb 26, 2014","10:30","US DOE Distillate Inventories",338,-1250,1588
+"374","Wed, Feb 26, 2014","10:30","US DOE Crude Oil Inventories",68,1275,-1207
+"375","Wed, Feb 26, 2014","10:30","US DOE Gasoline Inventories",-2807,-1000,-1807
+"376","Wed, Feb 26, 2014","10:30","US DOE Refinery Utilization",1.2,0,1.2
+"377","Thu, Feb 20, 2014","11:00","US DOE Distillate Inventories",-339,-2100,1761
+"378","Thu, Feb 20, 2014","11:00","US DOE Crude Oil Inventories",973,2250,-1277
+"379","Thu, Feb 20, 2014","11:00","US DOE Gasoline Inventories",309,-850,1159
+"380","Thu, Feb 20, 2014","11:00","US DOE Refinery Utilization",-0.3,-0.5,0.2
+"381","Wed, Feb 12, 2014","10:30","US DOE Distillate Inventories",-731,-2125,1394
+"382","Wed, Feb 12, 2014","10:30","US DOE Crude Oil Inventories",3267,2600,667
+"383","Wed, Feb 12, 2014","10:30","US DOE Gasoline Inventories",-1853,100,-1953
+"384","Wed, Feb 12, 2014","10:30","US DOE Refinery Utilization",1,-0.5,1.5
+"385","Wed, Feb 05, 2014","10:30","US DOE Distillate Inventories",-2360,-2500,140
+"386","Wed, Feb 05, 2014","10:30","US DOE Crude Oil Inventories",440,2550,-2110
+"387","Wed, Feb 05, 2014","10:30","US DOE Gasoline Inventories",505,1150,-645
+"388","Wed, Feb 05, 2014","10:30","US DOE Refinery Utilization",-2.1,-0.1,-2
+"389","Wed, Jan 29, 2014","10:30","US DOE Distillate Inventories",-4584,-2550,-2034
+"390","Wed, Jan 29, 2014","10:30","US DOE Crude Oil Inventories",6421,2250,4171
+"391","Wed, Jan 29, 2014","10:30","US DOE Gasoline Inventories",-819,1600,-2419
+"392","Wed, Jan 29, 2014","10:30","US DOE Refinery Utilization",1.7,0.85,0.85
+"393","Thu, Jan 23, 2014","11:00","US DOE Distillate Inventories",-3212,-500,-2712
+"394","Thu, Jan 23, 2014","11:00","US DOE Crude Oil Inventories",990,1150,-160
+"395","Thu, Jan 23, 2014","11:00","US DOE Gasoline Inventories",2123,1750,373
+"396","Thu, Jan 23, 2014","11:00","US DOE Refinery Utilization",-3.5,-0.5,-3
+"397","Wed, Jan 15, 2014","10:30","US DOE Distillate Inventories",-1023,1250,-2273
+"398","Wed, Jan 15, 2014","10:30","US DOE Crude Oil Inventories",-7658,-1300,-6358
+"399","Wed, Jan 15, 2014","10:30","US DOE Gasoline Inventories",6183,2500,3683
+"400","Wed, Jan 15, 2014","10:30","US DOE Refinery Utilization",-2.3,-0.4,-1.9
+"401","Wed, Jan 08, 2014","10:30","US DOE Distillate Inventories",5826,2250,3576
+"402","Wed, Jan 08, 2014","10:30","US DOE Crude Oil Inventories",-2675,-2750,75
+"403","Wed, Jan 08, 2014","10:30","US DOE Gasoline Inventories",6243,2500,3743
+"404","Wed, Jan 08, 2014","10:30","US DOE Refinery Utilization",-0.1,0.25,-0.35
+"405","Fri, Jan 03, 2014","11:00","US DOE Distillate Inventories",5042,750,4292
+"406","Fri, Jan 03, 2014","11:00","US DOE Crude Oil Inventories",-7007,-2825,-4182
+"407","Fri, Jan 03, 2014","11:00","US DOE Gasoline Inventories",844,1375,-531
+"408","Fri, Jan 03, 2014","11:00","US DOE Refinery Utilization",-0.3,0,-0.3
+"409","Fri, Dec 27, 2013","11:00","US DOE Distillate Inventories",-1850,-1000,-850
+"410","Fri, Dec 27, 2013","11:00","US DOE Crude Oil Inventories",-4731,-2650,-2081
+"411","Fri, Dec 27, 2013","11:00","US DOE Gasoline Inventories",-614,1100,-1714
+"412","Fri, Dec 27, 2013","11:00","US DOE Refinery Utilization",1.2,-0.1,1.3
+"413","Wed, Dec 18, 2013","10:30","US DOE Distillate Inventories",-2110,0,-2110
+"414","Wed, Dec 18, 2013","10:30","US DOE Crude Oil Inventories",-2941,-3500,559
+"415","Wed, Dec 18, 2013","10:30","US DOE Gasoline Inventories",1337,1500,-163
+"416","Wed, Dec 18, 2013","10:30","US DOE Refinery Utilization",-1.1,0.1,-1.2
+"417","Wed, Dec 11, 2013","10:30","US DOE Distillate Inventories",4541,1550,2991
+"418","Wed, Dec 11, 2013","10:30","US DOE Crude Oil Inventories",-10585,-3000,-7585
+"419","Wed, Dec 11, 2013","10:30","US DOE Gasoline Inventories",6717,2000,4717
+"420","Wed, Dec 11, 2013","10:30","US DOE Refinery Utilization",0.2,0.5,-0.3
+"421","Wed, Dec 04, 2013","10:30","US DOE Distillate Inventories",2649,-1500,4149
+"422","Wed, Dec 04, 2013","10:30","US DOE Crude Oil Inventories",-5585,-500,-5085
+"423","Wed, Dec 04, 2013","10:30","US DOE Gasoline Inventories",1828,1250,578
+"424","Wed, Dec 04, 2013","10:30","US DOE Refinery Utilization",3,0.6,2.4
+"425","Wed, Nov 27, 2013","10:30","US DOE Distillate Inventories",-1666,-1000,-666
+"426","Wed, Nov 27, 2013","10:30","US DOE Crude Oil Inventories",2953,750,2203
+"427","Wed, Nov 27, 2013","10:30","US DOE Gasoline Inventories",1751,500,1251
+"428","Wed, Nov 27, 2013","10:30","US DOE Refinery Utilization",0.8,0.25,0.55
+"429","Wed, Nov 20, 2013","10:30","US DOE Distillate Inventories",-4795,-280,-4515
+"430","Wed, Nov 20, 2013","10:30","US DOE Crude Oil Inventories",375,1000,-625
+"431","Wed, Nov 20, 2013","10:30","US DOE Gasoline Inventories",-345,-300,-45
+"432","Wed, Nov 20, 2013","10:30","US DOE Refinery Utilization",-0.1,0.5,-0.6
+"433","Thu, Nov 14, 2013","11:00","US DOE Distillate Inventories",-481,-1000,519
+"434","Thu, Nov 14, 2013","11:00","US DOE Crude Oil Inventories",2640,800,1840
+"435","Thu, Nov 14, 2013","11:00","US DOE Gasoline Inventories",-838,-900,62
+"436","Thu, Nov 14, 2013","11:00","US DOE Refinery Utilization",1.9,0.6,1.3
+"437","Wed, Nov 06, 2013","10:30","US DOE Distillate Inventories",-4899,-1500,-3399
+"438","Wed, Nov 06, 2013","10:30","US DOE Crude Oil Inventories",1577,2100,-523
+"439","Wed, Nov 06, 2013","10:30","US DOE Gasoline Inventories",-3755,-400,-3355
+"440","Wed, Nov 06, 2013","10:30","US DOE Refinery Utilization",-0.5,-0.23,-0.27
+"441","Wed, Oct 30, 2013","10:30","US DOE Distillate Inventories",-3058,-1000,-2058
+"442","Wed, Oct 30, 2013","10:30","US DOE Crude Oil Inventories",4087,2400,1687
+"443","Wed, Oct 30, 2013","10:30","US DOE Gasoline Inventories",-1713,-200,-1513
+"444","Wed, Oct 30, 2013","10:30","US DOE Refinery Utilization",1.4,0,1.4
+"445","Wed, Oct 23, 2013","10:30","US DOE Distillate Inventories",1537,-1800,3337
+"446","Wed, Oct 23, 2013","10:30","US DOE Crude Oil Inventories",5246,3000,2246
+"447","Wed, Oct 23, 2013","10:30","US DOE Gasoline Inventories",-1805,-1000,-805
+"448","Wed, Oct 23, 2013","10:30","US DOE Refinery Utilization",-0.3,0.25,-0.55
+"449","Mon, Oct 21, 2013","10:30","US DOE Distillate Inventories",1537,-1800,3337
+"450","Mon, Oct 21, 2013","10:30","US DOE Crude Oil Inventories",5246,3000,2246
+"451","Mon, Oct 21, 2013","10:30","US DOE Gasoline Inventories",-1805,-1000,-805
+"452","Mon, Oct 21, 2013","10:30","US DOE Refinery Utilization",-0.3,0.25,-0.55
+"453","Wed, Oct 09, 2013","10:30","US DOE Distillate Inventories",-3141,-1150,-1991
+"454","Wed, Oct 09, 2013","10:30","US DOE Crude Oil Inventories",6807,1550,5257
+"455","Wed, Oct 09, 2013","10:30","US DOE Gasoline Inventories",149,1050,-901
+"456","Wed, Oct 09, 2013","10:30","US DOE Refinery Utilization",-3,-1,-2
+"457","Wed, Oct 02, 2013","10:30","US DOE Distillate Inventories",-1680,-1000,-680
+"458","Wed, Oct 02, 2013","10:30","US DOE Crude Oil Inventories",5472,2500,2972
+"459","Wed, Oct 02, 2013","10:30","US DOE Gasoline Inventories",3495,-700,4195
+"460","Wed, Oct 02, 2013","10:30","US DOE Refinery Utilization",-1.3,-0.95,-0.35
+"461","Wed, Sep 25, 2013","10:30","US DOE Distillate Inventories",-234,-925,691
+"462","Wed, Sep 25, 2013","10:30","US DOE Crude Oil Inventories",2635,-1000,3635
+"463","Wed, Sep 25, 2013","10:30","US DOE Gasoline Inventories",217,-750,967
+"464","Wed, Sep 25, 2013","10:30","US DOE Refinery Utilization",-2.2,-0.88,-1.32
+"465","Wed, Sep 18, 2013","10:30","US DOE Distillate Inventories",-1079,500,-1579
+"466","Wed, Sep 18, 2013","10:30","US DOE Crude Oil Inventories",-4368,-1200,-3168
+"467","Wed, Sep 18, 2013","10:30","US DOE Gasoline Inventories",-1627,500,-2127
+"468","Wed, Sep 18, 2013","10:30","US DOE Refinery Utilization",0,-0.5,0.5
+"469","Wed, Sep 11, 2013","10:30","US DOE Distillate Inventories",2586,600,1986
+"470","Wed, Sep 11, 2013","10:30","US DOE Crude Oil Inventories",-219,-2100,1881
+"471","Wed, Sep 11, 2013","10:30","US DOE Gasoline Inventories",1658,-1000,2658
+"472","Wed, Sep 11, 2013","10:30","US DOE Refinery Utilization",0.8,-0.9,1.7
+"473","Thu, Sep 05, 2013","11:00","US DOE Distillate Inventories",549,600,-51
+"474","Thu, Sep 05, 2013","11:00","US DOE Crude Oil Inventories",-1836,-2000,164
+"475","Thu, Sep 05, 2013","11:00","US DOE Gasoline Inventories",-1827,-700,-1127
+"476","Thu, Sep 05, 2013","11:00","US DOE Refinery Utilization",0.5,-0.5,1
+"477","Wed, Aug 28, 2013","10:30","US DOE Distillate Inventories",-316,550,-866
+"478","Wed, Aug 28, 2013","10:30","US DOE Crude Oil Inventories",2986,750,2236
+"479","Wed, Aug 28, 2013","10:30","US DOE Gasoline Inventories",-587,-1375,788
+"480","Wed, Aug 28, 2013","10:30","US DOE Refinery Utilization",0.2,-0.25,0.45
+"481","Wed, Aug 21, 2013","10:30","US DOE Distillate Inventories",871,1000,-129
+"482","Wed, Aug 21, 2013","10:30","US DOE Crude Oil Inventories",-1428,-1500,72
+"483","Wed, Aug 21, 2013","10:30","US DOE Gasoline Inventories",-4029,-1500,-2529
+"484","Wed, Aug 21, 2013","10:30","US DOE Refinery Utilization",1.6,-0.5,2.1
+"485","Wed, Aug 14, 2013","10:30","US DOE Distillate Inventories",2027,1000,1027
+"486","Wed, Aug 14, 2013","10:30","US DOE Crude Oil Inventories",-2812,-1500,-1312
+"487","Wed, Aug 14, 2013","10:30","US DOE Gasoline Inventories",-1169,-1600,431
+"488","Wed, Aug 14, 2013","10:30","US DOE Refinery Utilization",-1.5,-0.2,-1.3
+"489","Wed, Aug 07, 2013","10:30","US DOE Distillate Inventories",469,0,469
+"490","Wed, Aug 07, 2013","10:30","US DOE Crude Oil Inventories",-1320,-1500,180
+"491","Wed, Aug 07, 2013","10:30","US DOE Gasoline Inventories",135,-500,635
+"492","Wed, Aug 07, 2013","10:30","US DOE Refinery Utilization",-0.4,-0.3,-0.1
+"493","Wed, Jul 31, 2013","10:30","US DOE Distillate Inventories",-466,450,-916
+"494","Wed, Jul 31, 2013","10:30","US DOE Crude Oil Inventories",431,-2450,2881
+"495","Wed, Jul 31, 2013","10:30","US DOE Gasoline Inventories",770,-1500,2270
+"496","Wed, Jul 31, 2013","10:30","US DOE Refinery Utilization",-1,-0.2,-0.8
+"497","Wed, Jul 24, 2013","10:30","US DOE Distillate Inventories",-1227,1850,-3077
+"498","Wed, Jul 24, 2013","10:30","US DOE Crude Oil Inventories",-2825,-2800,-25
+"499","Wed, Jul 24, 2013","10:30","US DOE Gasoline Inventories",-1389,1650,-3039
+"500","Wed, Jul 24, 2013","10:30","US DOE Refinery Utilization",-0.5,-0.3,-0.2
+"501","Wed, Jul 17, 2013","10:30","US DOE Distillate Inventories",3870,1500,2370
+"502","Wed, Jul 17, 2013","10:30","US DOE Crude Oil Inventories",-6902,-2000,-4902
+"503","Wed, Jul 17, 2013","10:30","US DOE Gasoline Inventories",3055,-1500,4555
+"504","Wed, Jul 17, 2013","10:30","US DOE Refinery Utilization",0.4,-0.4,0.8
+"505","Wed, Jul 10, 2013","10:30","US DOE Distillate Inventories",3038,1000,2038
+"506","Wed, Jul 10, 2013","10:30","US DOE Crude Oil Inventories",-9874,-3200,-6674
+"507","Wed, Jul 10, 2013","10:30","US DOE Gasoline Inventories",-2634,1000,-3634
+"508","Wed, Jul 10, 2013","10:30","US DOE Refinery Utilization",0.2,0.2,0
+"509","Wed, Jul 03, 2013","10:30","US DOE Distillate Inventories",-2418,1000,-3418
+"510","Wed, Jul 03, 2013","10:30","US DOE Crude Oil Inventories",-10347,-2250,-8097
+"511","Wed, Jul 03, 2013","10:30","US DOE Gasoline Inventories",-1719,700,-2419
+"512","Wed, Jul 03, 2013","10:30","US DOE Refinery Utilization",2,0.5,1.5
+"513","Wed, Jun 26, 2013","10:30","US DOE Distillate Inventories",1567,650,917
+"514","Wed, Jun 26, 2013","10:30","US DOE Crude Oil Inventories",18,-1750,1768
+"515","Wed, Jun 26, 2013","10:30","US DOE Gasoline Inventories",3653,875,2778
+"516","Wed, Jun 26, 2013","10:30","US DOE Refinery Utilization",0.9,0.25,0.65
+"517","Wed, Jun 19, 2013","10:30","US DOE Distillate Inventories",-489,925,-1414
+"518","Wed, Jun 19, 2013","10:30","US DOE Crude Oil Inventories",313,-500,813
+"519","Wed, Jun 19, 2013","10:30","US DOE Gasoline Inventories",183,750,-567
+"520","Wed, Jun 19, 2013","10:30","US DOE Refinery Utilization",1.8,0.5,1.3
+"521","Wed, Jun 12, 2013","10:30","US DOE Distillate Inventories",-1163,1500,-2663
+"522","Wed, Jun 12, 2013","10:30","US DOE Crude Oil Inventories",2523,-1500,4023
+"523","Wed, Jun 12, 2013","10:30","US DOE Gasoline Inventories",2748,500,2248
+"524","Wed, Jun 12, 2013","10:30","US DOE Refinery Utilization",-0.9,0.3,-1.2
+"525","Wed, Jun 05, 2013","10:30","US DOE Distillate Inventories",2611,1400,1211
+"526","Wed, Jun 05, 2013","10:30","US DOE Crude Oil Inventories",-6267,-800,-5467
+"527","Wed, Jun 05, 2013","10:30","US DOE Gasoline Inventories",-366,1000,-1366
+"528","Wed, Jun 05, 2013","10:30","US DOE Refinery Utilization",2,0.6,1.4
+"529","Thu, May 30, 2013","11:00","US DOE Distillate Inventories",1851,-450,2301
+"530","Thu, May 30, 2013","11:00","US DOE Crude Oil Inventories",3000,-500,3500
+"531","Thu, May 30, 2013","11:00","US DOE Gasoline Inventories",-1514,-500,-1014
+"532","Thu, May 30, 2013","11:00","US DOE Refinery Utilization",-0.9,0.3,-1.2
+"533","Wed, May 22, 2013","10:30","US DOE Distillate Inventories",-1052,1000,-2052
+"534","Wed, May 22, 2013","10:30","US DOE Crude Oil Inventories",-338,-1000,662
+"535","Wed, May 22, 2013","10:30","US DOE Gasoline Inventories",3015,-300,3315
+"536","Wed, May 22, 2013","10:30","US DOE Refinery Utilization",-0.7,0.5,-1.2
+"537","Wed, May 15, 2013","10:30","US DOE Distillate Inventories",2300,475,1825
+"538","Wed, May 15, 2013","10:30","US DOE Crude Oil Inventories",-624,450,-1074
+"539","Wed, May 15, 2013","10:30","US DOE Gasoline Inventories",2588,-1100,3688
+"540","Wed, May 15, 2013","10:30","US DOE Refinery Utilization",1,0.5,0.5
+"541","Wed, May 08, 2013","10:30","US DOE Distillate Inventories",1812,500,1312
+"542","Wed, May 08, 2013","10:30","US DOE Crude Oil Inventories",230,2000,-1770
+"543","Wed, May 08, 2013","10:30","US DOE Gasoline Inventories",-910,-475,-435
+"544","Wed, May 08, 2013","10:30","US DOE Refinery Utilization",2.6,0.5,2.1
+"545","Wed, May 01, 2013","10:30","US DOE Distillate Inventories",474,250,224
+"546","Wed, May 01, 2013","10:30","US DOE Crude Oil Inventories",6696,1100,5596
+"547","Wed, May 01, 2013","10:30","US DOE Gasoline Inventories",-1818,-900,-918
+"548","Wed, May 01, 2013","10:30","US DOE Refinery Utilization",0.9,0.68,0.22
+"549","Wed, Apr 24, 2013","10:30","US DOE Distillate Inventories",97,500,-403
+"550","Wed, Apr 24, 2013","10:30","US DOE Crude Oil Inventories",947,2000,-1053
+"551","Wed, Apr 24, 2013","10:30","US DOE Gasoline Inventories",-3928,-600,-3328
+"552","Wed, Apr 24, 2013","10:30","US DOE Refinery Utilization",-2.8,0.5,-3.3
+"553","Wed, Apr 17, 2013","10:30","US DOE Distillate Inventories",2364,-350,2714
+"554","Wed, Apr 17, 2013","10:30","US DOE Crude Oil Inventories",-1233,1200,-2433
+"555","Wed, Apr 17, 2013","10:30","US DOE Gasoline Inventories",-633,-800,167
+"556","Wed, Apr 17, 2013","10:30","US DOE Refinery Utilization",-0.5,0,-0.5
+"557","Wed, Apr 10, 2013","10:30","US DOE Distillate Inventories",-169,-1500,1331
+"558","Wed, Apr 10, 2013","10:30","US DOE Crude Oil Inventories",250,1500,-1250
+"559","Wed, Apr 10, 2013","10:30","US DOE Gasoline Inventories",1699,-1500,3199
+"560","Wed, Apr 10, 2013","10:30","US DOE Refinery Utilization",0.5,0.2,0.3
+"561","Wed, Apr 03, 2013","10:30","US DOE Distillate Inventories",-2266,-1100,-1166
+"562","Wed, Apr 03, 2013","10:30","US DOE Crude Oil Inventories",2707,2050,657
+"563","Wed, Apr 03, 2013","10:30","US DOE Gasoline Inventories",-572,-1000,428
+"564","Wed, Apr 03, 2013","10:30","US DOE Refinery Utilization",0.6,0.3,0.3
+"565","Wed, Mar 27, 2013","10:30","US DOE Distillate Inventories",-4513,-850,-3663
+"566","Wed, Mar 27, 2013","10:30","US DOE Crude Oil Inventories",3256,1325,1931
+"567","Wed, Mar 27, 2013","10:30","US DOE Gasoline Inventories",-1596,-1000,-596
+"568","Wed, Mar 27, 2013","10:30","US DOE Refinery Utilization",2.2,0.45,1.75
+"569","Wed, Mar 20, 2013","10:30","US DOE Distillate Inventories",-672,-1000,328
+"570","Wed, Mar 20, 2013","10:30","US DOE Crude Oil Inventories",-1314,2000,-3314
+"571","Wed, Mar 20, 2013","10:30","US DOE Gasoline Inventories",-1476,-2000,524
+"572","Wed, Mar 20, 2013","10:30","US DOE Refinery Utilization",2.5,0,2.5
+"573","Wed, Mar 13, 2013","10:30","US DOE Distillate Inventories",83,-2000,2083
+"574","Wed, Mar 13, 2013","10:30","US DOE Crude Oil Inventories",2624,2300,324
+"575","Wed, Mar 13, 2013","10:30","US DOE Gasoline Inventories",-3571,-1200,-2371
+"576","Wed, Mar 13, 2013","10:30","US DOE Refinery Utilization",-1.2,0,-1.2
+"577","Wed, Mar 06, 2013","10:30","US DOE Distillate Inventories",-3830,-1000,-2830
+"578","Wed, Mar 06, 2013","10:30","US DOE Crude Oil Inventories",3833,788,3045
+"579","Wed, Mar 06, 2013","10:30","US DOE Gasoline Inventories",-616,-1000,384
+"580","Wed, Mar 06, 2013","10:30","US DOE Refinery Utilization",-2.9,0.4,-3.3
+"581","Wed, Feb 27, 2013","10:30","US DOE Distillate Inventories",557,-1550,2107
+"582","Wed, Feb 27, 2013","10:30","US DOE Crude Oil Inventories",1130,2500,-1370
+"583","Wed, Feb 27, 2013","10:30","US DOE Gasoline Inventories",-1857,-1000,-857
+"584","Wed, Feb 27, 2013","10:30","US DOE Refinery Utilization",2.2,0.2,2
+"585","Thu, Feb 21, 2013","11:00","US DOE Distillate Inventories",-2277,-1800,-477
+"586","Thu, Feb 21, 2013","11:00","US DOE Crude Oil Inventories",4143,2000,2143
+"587","Thu, Feb 21, 2013","11:00","US DOE Gasoline Inventories",-2884,-900,-1984
+"588","Thu, Feb 21, 2013","11:00","US DOE Refinery Utilization",-0.9,-0.4,-0.5
+"589","Wed, Feb 13, 2013","10:30","US DOE Distillate Inventories",-3677,-1750,-1927
+"590","Wed, Feb 13, 2013","10:30","US DOE Crude Oil Inventories",560,2200,-1640
+"591","Wed, Feb 13, 2013","10:30","US DOE Gasoline Inventories",-803,500,-1303
+"592","Wed, Feb 13, 2013","10:30","US DOE Refinery Utilization",-0.4,0,-0.4
+"593","Wed, Feb 06, 2013","10:30","US DOE Distillate Inventories",-1042,-625,-417
+"594","Wed, Feb 06, 2013","10:30","US DOE Crude Oil Inventories",2623,2650,-27
+"595","Wed, Feb 06, 2013","10:30","US DOE Gasoline Inventories",1738,900,838
+"596","Wed, Feb 06, 2013","10:30","US DOE Refinery Utilization",-0.8,-0.4,-0.4
+"597","Wed, Jan 30, 2013","10:30","US DOE Distillate Inventories",-2315,-500,-1815
+"598","Wed, Jan 30, 2013","10:30","US DOE Crude Oil Inventories",5947,2500,3447
+"599","Wed, Jan 30, 2013","10:30","US DOE Gasoline Inventories",-956,1000,-1956
+"600","Wed, Jan 30, 2013","10:30","US DOE Refinery Utilization",1.4,-0.35,1.75
+"601","Thu, Jan 24, 2013","11:00","US DOE Distillate Inventories",508,0,508
+"602","Thu, Jan 24, 2013","11:00","US DOE Crude Oil Inventories",2813,2150,663
+"603","Thu, Jan 24, 2013","11:00","US DOE Gasoline Inventories",-1738,1250,-2988
+"604","Thu, Jan 24, 2013","11:00","US DOE Refinery Utilization",-4.3,-0.6,-3.7
+"605","Wed, Jan 16, 2013","10:30","US DOE Distillate Inventories",1686,1500,186
+"606","Wed, Jan 16, 2013","10:30","US DOE Crude Oil Inventories",-951,2200,-3151
+"607","Wed, Jan 16, 2013","10:30","US DOE Gasoline Inventories",1910,2700,-790
+"608","Wed, Jan 16, 2013","10:30","US DOE Refinery Utilization",-1.2,-0.75,-0.45
+"609","Wed, Jan 09, 2013","10:30","US DOE Distillate Inventories",6777,1900,4877
+"610","Wed, Jan 09, 2013","10:30","US DOE Crude Oil Inventories",1314,2000,-686
+"611","Wed, Jan 09, 2013","10:30","US DOE Gasoline Inventories",7412,2500,4912
+"612","Wed, Jan 09, 2013","10:30","US DOE Refinery Utilization",-1.3,0.25,-1.55
+"613","Fri, Jan 04, 2013","11:00","US DOE Distillate Inventories",4574,1250,3324
+"614","Fri, Jan 04, 2013","11:00","US DOE Crude Oil Inventories",-11120,-1000,-10120
+"615","Fri, Jan 04, 2013","11:00","US DOE Gasoline Inventories",2569,2200,369
+"616","Fri, Jan 04, 2013","11:00","US DOE Refinery Utilization",0.1,0.5,-0.4
+"617","Fri, Dec 28, 2012","11:00","US DOE Distillate Inventories",2423,-850,3273
+"618","Fri, Dec 28, 2012","11:00","US DOE Crude Oil Inventories",-586,-1750,1164
+"619","Fri, Dec 28, 2012","11:00","US DOE Gasoline Inventories",3782,850,2932
+"620","Fri, Dec 28, 2012","11:00","US DOE Refinery Utilization",-1.2,-0.2,-1
+"621","Wed, Dec 19, 2012","10:30","US DOE Distillate Inventories",-1085,1000,-2085
+"622","Wed, Dec 19, 2012","10:30","US DOE Crude Oil Inventories",-964,-1750,786
+"623","Wed, Dec 19, 2012","10:30","US DOE Gasoline Inventories",2207,2000,207
+"624","Wed, Dec 19, 2012","10:30","US DOE Refinery Utilization",1.1,0,1.1
+"625","Wed, Dec 12, 2012","10:30","US DOE Distillate Inventories",2986,1100,1886
+"626","Wed, Dec 12, 2012","10:30","US DOE Crude Oil Inventories",843,-2500,3343
+"627","Wed, Dec 12, 2012","10:30","US DOE Gasoline Inventories",5000,2000,3000
+"628","Wed, Dec 12, 2012","10:30","US DOE Refinery Utilization",-0.2,0,-0.2
+"629","Wed, Dec 05, 2012","10:30","US DOE Distillate Inventories",3027,850,2177
+"630","Wed, Dec 05, 2012","10:30","US DOE Crude Oil Inventories",-2357,-500,-1857
+"631","Wed, Dec 05, 2012","10:30","US DOE Gasoline Inventories",7860,1550,6310
+"632","Wed, Dec 05, 2012","10:30","US DOE Refinery Utilization",2,0.5,1.5
+"633","Wed, Nov 28, 2012","10:30","US DOE Distillate Inventories",-800,500,-1300
+"634","Wed, Nov 28, 2012","10:30","US DOE Crude Oil Inventories",-347,350,-697
+"635","Wed, Nov 28, 2012","10:30","US DOE Gasoline Inventories",3865,900,2965
+"636","Wed, Nov 28, 2012","10:30","US DOE Refinery Utilization",1.1,0.5,0.6
+"637","Wed, Nov 21, 2012","10:30","US DOE Distillate Inventories",-2675,-1000,-1675
+"638","Wed, Nov 21, 2012","10:30","US DOE Crude Oil Inventories",-1466,1000,-2466
+"639","Wed, Nov 21, 2012","10:30","US DOE Gasoline Inventories",-1547,1000,-2547
+"640","Wed, Nov 21, 2012","10:30","US DOE Refinery Utilization",1.5,0.5,1
+"641","Thu, Nov 15, 2012","11:00","US DOE Distillate Inventories",-2539,-950,-1589
+"642","Thu, Nov 15, 2012","11:00","US DOE Crude Oil Inventories",1089,2650,-1561
+"643","Thu, Nov 15, 2012","11:00","US DOE Gasoline Inventories",-440,-1000,560
+"644","Thu, Nov 15, 2012","11:00","US DOE Refinery Utilization",0.6,0.5,0.1
+"645","Wed, Nov 07, 2012","10:30","US DOE Distillate Inventories",131,-1250,1381
+"646","Wed, Nov 07, 2012","10:30","US DOE Crude Oil Inventories",1766,2000,-234
+"647","Wed, Nov 07, 2012","10:30","US DOE Gasoline Inventories",2875,-1500,4375
+"648","Wed, Nov 07, 2012","10:30","US DOE Refinery Utilization",-2.3,-1.5,-0.8
+"649","Thu, Nov 01, 2012","11:00","US DOE Distillate Inventories",-93,-1400,1307
+"650","Thu, Nov 01, 2012","11:00","US DOE Crude Oil Inventories",-2045,1800,-3845
+"651","Thu, Nov 01, 2012","11:00","US DOE Gasoline Inventories",935,850,85
+"652","Thu, Nov 01, 2012","11:00","US DOE Refinery Utilization",0.5,0.13,0.37
+"653","Wed, Oct 24, 2012","10:30","US DOE Distillate Inventories",-646,-1200,554
+"654","Wed, Oct 24, 2012","10:30","US DOE Crude Oil Inventories",5896,1800,4096
+"655","Wed, Oct 24, 2012","10:30","US DOE Gasoline Inventories",1439,500,939
+"656","Wed, Oct 24, 2012","10:30","US DOE Refinery Utilization",-0.2,0.5,-0.7
+"657","Wed, Oct 17, 2012","10:30","US DOE Distillate Inventories",-2218,-1500,-718
+"658","Wed, Oct 17, 2012","10:30","US DOE Crude Oil Inventories",2860,1500,1360
+"659","Wed, Oct 17, 2012","10:30","US DOE Gasoline Inventories",1720,500,1220
+"660","Wed, Oct 17, 2012","10:30","US DOE Refinery Utilization",0.7,0.25,0.45
+"661","Thu, Oct 11, 2012","11:00","US DOE Distillate Inventories",-3177,-1000,-2177
+"662","Thu, Oct 11, 2012","11:00","US DOE Crude Oil Inventories",1672,1500,172
+"663","Thu, Oct 11, 2012","11:00","US DOE Gasoline Inventories",-534,250,-784
+"664","Thu, Oct 11, 2012","11:00","US DOE Refinery Utilization",-1.5,0,-1.5
+"665","Wed, Oct 03, 2012","10:30","US DOE Distillate Inventories",-3689,-400,-3289
+"666","Wed, Oct 03, 2012","10:30","US DOE Crude Oil Inventories",-482,1500,-1982
+"667","Wed, Oct 03, 2012","10:30","US DOE Gasoline Inventories",114,-500,614
+"668","Wed, Oct 03, 2012","10:30","US DOE Refinery Utilization",0.8,0.1,0.7
+"669","Wed, Sep 26, 2012","10:30","US DOE Distillate Inventories",-482,500,-982
+"670","Wed, Sep 26, 2012","10:30","US DOE Crude Oil Inventories",-2446,1900,-4346
+"671","Wed, Sep 26, 2012","10:30","US DOE Gasoline Inventories",-481,500,-981
+"672","Wed, Sep 26, 2012","10:30","US DOE Refinery Utilization",-1.5,0.25,-1.75
+"673","Wed, Sep 19, 2012","10:30","US DOE Distillate Inventories",-322,1000,-1322
+"674","Wed, Sep 19, 2012","10:30","US DOE Crude Oil Inventories",8534,1000,7534
+"675","Wed, Sep 19, 2012","10:30","US DOE Gasoline Inventories",-1407,1000,-2407
+"676","Wed, Sep 19, 2012","10:30","US DOE Refinery Utilization",4.2,1,3.2
+"677","Wed, Sep 12, 2012","10:30","US DOE Distillate Inventories",1476,-500,1976
+"678","Wed, Sep 12, 2012","10:30","US DOE Crude Oil Inventories",1994,-2900,4894
+"679","Wed, Sep 12, 2012","10:30","US DOE Gasoline Inventories",-1177,-1700,523
+"680","Wed, Sep 12, 2012","10:30","US DOE Refinery Utilization",-1.4,1,-2.4
+"681","Thu, Sep 06, 2012","11:00","US DOE Distillate Inventories",993,-1550,2543
+"682","Thu, Sep 06, 2012","11:00","US DOE Crude Oil Inventories",-7426,-4950,-2476
+"683","Thu, Sep 06, 2012","11:00","US DOE Gasoline Inventories",-2334,-3000,666
+"684","Thu, Sep 06, 2012","11:00","US DOE Refinery Utilization",-5.1,-1.5,-3.6
+"685","Wed, Aug 29, 2012","10:30","US DOE Distillate Inventories",873,200,673
+"686","Wed, Aug 29, 2012","10:30","US DOE Crude Oil Inventories",3778,-1750,5528
+"687","Wed, Aug 29, 2012","10:30","US DOE Gasoline Inventories",-1509,-1450,-59
+"688","Wed, Aug 29, 2012","10:30","US DOE Refinery Utilization",0,-0.3,0.3
+"689","Wed, Aug 22, 2012","10:30","US DOE Distillate Inventories",992,1000,-8
+"690","Wed, Aug 22, 2012","10:30","US DOE Crude Oil Inventories",-5412,-250,-5162
+"691","Wed, Aug 22, 2012","10:30","US DOE Gasoline Inventories",-962,-1350,388
+"692","Wed, Aug 22, 2012","10:30","US DOE Refinery Utilization",-1.4,-0.3,-1.1
+"693","Wed, Aug 15, 2012","10:30","US DOE Distillate Inventories",677,-275,952
+"694","Wed, Aug 15, 2012","10:30","US DOE Crude Oil Inventories",-3699,-1500,-2199
+"695","Wed, Aug 15, 2012","10:30","US DOE Gasoline Inventories",-2371,-2000,-371
+"696","Wed, Aug 15, 2012","10:30","US DOE Refinery Utilization",0,-0.6,0.6
+"697","Wed, Aug 08, 2012","10:30","US DOE Distillate Inventories",-724,250,-974
+"698","Wed, Aug 08, 2012","10:30","US DOE Crude Oil Inventories",-3729,-1550,-2179
+"699","Wed, Aug 08, 2012","10:30","US DOE Gasoline Inventories",-1801,-1750,-51
+"700","Wed, Aug 08, 2012","10:30","US DOE Refinery Utilization",0.4,-0.5,0.9
+"701","Wed, Aug 01, 2012","10:30","US DOE Distillate Inventories",-974,1100,-2074
+"702","Wed, Aug 01, 2012","10:30","US DOE Crude Oil Inventories",-6522,-1000,-5522
+"703","Wed, Aug 01, 2012","10:30","US DOE Gasoline Inventories",-2174,800,-2974
+"704","Wed, Aug 01, 2012","10:30","US DOE Refinery Utilization",-0.8,-0.5,-0.3
+"705","Wed, Jul 25, 2012","10:30","US DOE Distillate Inventories",1708,1400,308
+"706","Wed, Jul 25, 2012","10:30","US DOE Crude Oil Inventories",2717,-1000,3717
+"707","Wed, Jul 25, 2012","10:30","US DOE Gasoline Inventories",4134,-1000,5134
+"708","Wed, Jul 25, 2012","10:30","US DOE Refinery Utilization",1,-0.1,1.1
+"709","Wed, Jul 18, 2012","10:30","US DOE Distillate Inventories",2619,1300,1319
+"710","Wed, Jul 18, 2012","10:30","US DOE Crude Oil Inventories",-809,-1300,491
+"711","Wed, Jul 18, 2012","10:30","US DOE Gasoline Inventories",-1815,1200,-3015
+"712","Wed, Jul 18, 2012","10:30","US DOE Refinery Utilization",-0.7,0.3,-1
+"713","Wed, Jul 11, 2012","10:30","US DOE Distillate Inventories",3112,625,2487
+"714","Wed, Jul 11, 2012","10:30","US DOE Crude Oil Inventories",-4696,-1375,-3321
+"715","Wed, Jul 11, 2012","10:30","US DOE Gasoline Inventories",2752,500,2252
+"716","Wed, Jul 11, 2012","10:30","US DOE Refinery Utilization",0.7,0.2,0.5
+"717","Thu, Jul 05, 2012","11:00","US DOE Distillate Inventories",-1051,1000,-2051
+"718","Thu, Jul 05, 2012","11:00","US DOE Crude Oil Inventories",-4270,-2300,-1970
+"719","Thu, Jul 05, 2012","11:00","US DOE Gasoline Inventories",151,1000,-849
+"720","Thu, Jul 05, 2012","11:00","US DOE Refinery Utilization",-0.6,0.3,-0.9
+"721","Wed, Jun 27, 2012","10:30","US DOE Distillate Inventories",-2279,1225,-3504
+"722","Wed, Jun 27, 2012","10:30","US DOE Crude Oil Inventories",-133,-1300,1167
+"723","Wed, Jun 27, 2012","10:30","US DOE Gasoline Inventories",2078,1000,1078
+"724","Wed, Jun 27, 2012","10:30","US DOE Refinery Utilization",0.7,0,0.7
+"725","Wed, Jun 20, 2012","10:30","US DOE Distillate Inventories",1156,1000,156
+"726","Wed, Jun 20, 2012","10:30","US DOE Crude Oil Inventories",2861,-1300,4161
+"727","Wed, Jun 20, 2012","10:30","US DOE Gasoline Inventories",943,1000,-57
+"728","Wed, Jun 20, 2012","10:30","US DOE Refinery Utilization",-0.1,0.3,-0.4
+"729","Wed, Jun 13, 2012","10:30","US DOE Distillate Inventories",-63,1175,-1238
+"730","Wed, Jun 13, 2012","10:30","US DOE Crude Oil Inventories",-191,-1500,1309
+"731","Wed, Jun 13, 2012","10:30","US DOE Gasoline Inventories",-1724,1400,-3124
+"732","Wed, Jun 13, 2012","10:30","US DOE Refinery Utilization",1,0,1
+"733","Wed, Jun 06, 2012","10:30","US DOE Distillate Inventories",2253,-250,2503
+"734","Wed, Jun 06, 2012","10:30","US DOE Crude Oil Inventories",-111,-500,389
+"735","Wed, Jun 06, 2012","10:30","US DOE Gasoline Inventories",3346,950,2396
+"736","Wed, Jun 06, 2012","10:30","US DOE Refinery Utilization",1.9,0.5,1.4
+"737","Thu, May 31, 2012","11:00","US DOE Distillate Inventories",-1709,0,-1709
+"738","Thu, May 31, 2012","11:00","US DOE Crude Oil Inventories",2213,1000,1213
+"739","Thu, May 31, 2012","11:00","US DOE Gasoline Inventories",-833,-1000,167
+"740","Thu, May 31, 2012","11:00","US DOE Refinery Utilization",1,0.4,0.6
+"741","Wed, May 23, 2012","10:30","US DOE Distillate Inventories",-309,-500,191
+"742","Wed, May 23, 2012","10:30","US DOE Crude Oil Inventories",883,1650,-767
+"743","Wed, May 23, 2012","10:30","US DOE Gasoline Inventories",-3299,-650,-2649
+"744","Wed, May 23, 2012","10:30","US DOE Refinery Utilization",-0.2,0.3,-0.5
+"745","Wed, May 16, 2012","10:30","US DOE Distillate Inventories",-969,150,-1119
+"746","Wed, May 16, 2012","10:30","US DOE Crude Oil Inventories",2128,1750,378
+"747","Wed, May 16, 2012","10:30","US DOE Gasoline Inventories",-2797,-100,-2697
+"748","Wed, May 16, 2012","10:30","US DOE Refinery Utilization",1.9,0.5,1.4
+"749","Wed, May 09, 2012","10:30","US DOE Distillate Inventories",-3251,125,-3376
+"750","Wed, May 09, 2012","10:30","US DOE Crude Oil Inventories",3652,2000,1652
+"751","Wed, May 09, 2012","10:30","US DOE Gasoline Inventories",-2613,-750,-1863
+"752","Wed, May 09, 2012","10:30","US DOE Refinery Utilization",0.4,0.5,-0.1
+"753","Wed, May 02, 2012","10:30","US DOE Distillate Inventories",-1903,-350,-1553
+"754","Wed, May 02, 2012","10:30","US DOE Crude Oil Inventories",2840,2500,340
+"755","Wed, May 02, 2012","10:30","US DOE Gasoline Inventories",-2009,-1500,-509
+"756","Wed, May 02, 2012","10:30","US DOE Refinery Utilization",1.3,0.4,0.9
+"757","Wed, Apr 25, 2012","10:30","US DOE Distillate Inventories",-3052,500,-3552
+"758","Wed, Apr 25, 2012","10:30","US DOE Crude Oil Inventories",3978,2800,1178
+"759","Wed, Apr 25, 2012","10:30","US DOE Gasoline Inventories",-2235,-1500,-735
+"760","Wed, Apr 25, 2012","10:30","US DOE Refinery Utilization",0.1,0.5,-0.4
+"761","Wed, Apr 18, 2012","10:30","US DOE Distillate Inventories",-2908,-125,-2783
+"762","Wed, Apr 18, 2012","10:30","US DOE Crude Oil Inventories",3856,1800,2056
+"763","Wed, Apr 18, 2012","10:30","US DOE Gasoline Inventories",-3671,-1100,-2571
+"764","Wed, Apr 18, 2012","10:30","US DOE Refinery Utilization",0.8,0.6,0.2
+"765","Wed, Apr 11, 2012","10:30","US DOE Distillate Inventories",-4000,-250,-3750
+"766","Wed, Apr 11, 2012","10:30","US DOE Crude Oil Inventories",2791,2000,791
+"767","Wed, Apr 11, 2012","10:30","US DOE Gasoline Inventories",-4277,-1375,-2902
+"768","Wed, Apr 11, 2012","10:30","US DOE Refinery Utilization",-1.9,0.3,-2.2
+"769","Wed, Apr 04, 2012","10:30","US DOE Distillate Inventories",19,-500,519
+"770","Wed, Apr 04, 2012","10:30","US DOE Crude Oil Inventories",9009,2500,6509
+"771","Wed, Apr 04, 2012","10:30","US DOE Gasoline Inventories",-1457,-1400,-57
+"772","Wed, Apr 04, 2012","10:30","US DOE Refinery Utilization",1.2,0.35,0.85
+"773","Wed, Mar 28, 2012","10:30","US DOE Distillate Inventories",-711,-500,-211
+"774","Wed, Mar 28, 2012","10:30","US DOE Crude Oil Inventories",7102,2550,4552
+"775","Wed, Mar 28, 2012","10:30","US DOE Gasoline Inventories",-3537,-1550,-1987
+"776","Wed, Mar 28, 2012","10:30","US DOE Refinery Utilization",2.3,0.3,2
+"777","Wed, Mar 21, 2012","10:30","US DOE Distillate Inventories",1763,-1500,3263
+"778","Wed, Mar 21, 2012","10:30","US DOE Crude Oil Inventories",-1162,2200,-3362
+"779","Wed, Mar 21, 2012","10:30","US DOE Gasoline Inventories",-1214,-2000,786
+"780","Wed, Mar 21, 2012","10:30","US DOE Refinery Utilization",-0.5,0,-0.5
+"781","Wed, Mar 14, 2012","10:30","US DOE Distillate Inventories",-4682,-1500,-3182
+"782","Wed, Mar 14, 2012","10:30","US DOE Crude Oil Inventories",1750,1600,150
+"783","Wed, Mar 14, 2012","10:30","US DOE Gasoline Inventories",-1410,-1000,-410
+"784","Wed, Mar 14, 2012","10:30","US DOE Refinery Utilization",-1.2,0,-1.2
+"785","Wed, Mar 07, 2012","10:30","US DOE Distillate Inventories",-1944,-1650,-294
+"786","Wed, Mar 07, 2012","10:30","US DOE Crude Oil Inventories",832,1500,-668
+"787","Wed, Mar 07, 2012","10:30","US DOE Gasoline Inventories",-396,-1600,1204
+"788","Wed, Mar 07, 2012","10:30","US DOE Refinery Utilization",0.3,0,0.3
+"789","Wed, Feb 29, 2012","10:30","US DOE Distillate Inventories",-2069,-750,-1319
+"790","Wed, Feb 29, 2012","10:30","US DOE Crude Oil Inventories",4160,1100,3060
+"791","Wed, Feb 29, 2012","10:30","US DOE Gasoline Inventories",-1600,-425,-1175
+"792","Wed, Feb 29, 2012","10:30","US DOE Refinery Utilization",-1.9,0.5,-2.4
+"793","Thu, Feb 23, 2012","11:00","US DOE Distillate Inventories",-208,-1500,1292
+"794","Thu, Feb 23, 2012","11:00","US DOE Crude Oil Inventories",1633,1350,283
+"795","Thu, Feb 23, 2012","11:00","US DOE Gasoline Inventories",-649,250,-899
+"796","Thu, Feb 23, 2012","11:00","US DOE Refinery Utilization",1.5,-0.5,2
+"797","Wed, Feb 15, 2012","10:30","US DOE Distillate Inventories",-2867,-1100,-1767
+"798","Wed, Feb 15, 2012","10:30","US DOE Crude Oil Inventories",-171,1500,-1671
+"799","Wed, Feb 15, 2012","10:30","US DOE Gasoline Inventories",400,700,-300
+"800","Wed, Feb 15, 2012","10:30","US DOE Refinery Utilization",1.2,-0.15,1.35
+"801","Wed, Feb 08, 2012","10:30","US DOE Distillate Inventories",1174,-875,2049
+"802","Wed, Feb 08, 2012","10:30","US DOE Crude Oil Inventories",304,2500,-2196
+"803","Wed, Feb 08, 2012","10:30","US DOE Gasoline Inventories",1629,875,754
+"804","Wed, Feb 08, 2012","10:30","US DOE Refinery Utilization",1,-0.4,1.4
+"805","Wed, Feb 01, 2012","10:30","US DOE Distillate Inventories",-135,-1375,1240
+"806","Wed, Feb 01, 2012","10:30","US DOE Crude Oil Inventories",4175,2600,1575
+"807","Wed, Feb 01, 2012","10:30","US DOE Gasoline Inventories",3017,500,2517
+"808","Wed, Feb 01, 2012","10:30","US DOE Refinery Utilization",-0.4,0,-0.4
+"809","Wed, Jan 25, 2012","10:30","US DOE Distillate Inventories",-2456,-125,-2331
+"810","Wed, Jan 25, 2012","10:30","US DOE Crude Oil Inventories",3558,1450,2108
+"811","Wed, Jan 25, 2012","10:30","US DOE Gasoline Inventories",-390,2000,-2390
+"812","Wed, Jan 25, 2012","10:30","US DOE Refinery Utilization",-1.5,-0.4,-1.1
+"813","Thu, Jan 19, 2012","11:00","US DOE Distillate Inventories",438,1375,-937
+"814","Thu, Jan 19, 2012","11:00","US DOE Crude Oil Inventories",-3438,3000,-6438
+"815","Thu, Jan 19, 2012","11:00","US DOE Gasoline Inventories",3717,2350,1367
+"816","Thu, Jan 19, 2012","11:00","US DOE Refinery Utilization",-1.9,-0.5,-1.4
+"817","Wed, Jan 11, 2012","10:30","US DOE Distillate Inventories",3985,2250,1735
+"818","Wed, Jan 11, 2012","10:30","US DOE Crude Oil Inventories",4958,1000,3958
+"819","Wed, Jan 11, 2012","10:30","US DOE Gasoline Inventories",3610,2550,1060
+"820","Wed, Jan 11, 2012","10:30","US DOE Refinery Utilization",0.6,0.5,0.1
+"821","Thu, Jan 05, 2012","11:00","US DOE Distillate Inventories",3224,1000,2224
+"822","Thu, Jan 05, 2012","11:00","US DOE Crude Oil Inventories",2209,-1000,3209
+"823","Thu, Jan 05, 2012","11:00","US DOE Gasoline Inventories",2479,1000,1479
+"824","Thu, Jan 05, 2012","11:00","US DOE Refinery Utilization",0.8,0.5,0.3
+"825","Thu, Dec 29, 2011","11:00","US DOE Distillate Inventories",1205,-650,1855
+"826","Thu, Dec 29, 2011","11:00","US DOE Crude Oil Inventories",3899,-2500,6399
+"827","Thu, Dec 29, 2011","11:00","US DOE Gasoline Inventories",-692,-500,-192
+"828","Thu, Dec 29, 2011","11:00","US DOE Refinery Utilization",-0.7,0,-0.7
