@@ -28,27 +28,32 @@ Analiziral bom:
 
 Ko bom vse to storil, se bom pa osredotočil na iskanje nekih vzorcev na trgu, ki bi jih bilo smiselno koristiti. Tukaj imam predvsem v mislih tako imenovano "hedganje", oziroma zavarovanje naložb z opcijami. Na ta način lahko očitno zmanjšamo volatilnost našega P&L-a (profit & loss).
 
-Uvoz izgleda trenutno tako:
+Obdelava, uvoz in čiščenje podatkov:
 ===========================
+
+Podatke sem pobral iz spletne strani: <http://www.fasteconomicnews.com/fx_calendar.aspx>, kjer sem naletel na težave, saj sem moral komunicirati s strežnikom, da sem prejel željene podatke.
 ```{r}
 source("uvoz/uvoz_novic.R")
 ```
- In pa še nekaj kode za uvažanje:
+
+Sedaj pa še nekaj uvoza podatkov za tečajnice:
+V obdelavi bom imel večje število podatkov, trenutno obsega 1032 tabel vsaka s po 9 stolpci in vsaj 148 vrsticami. Podatki se prav tako nahajajo na spletni strani <http://www.fasteconomicnews.com/fx_calendar.aspx>, vendar sem jih našel tudi v obliki .html in sem se potem odločil, da uvozim podatke od tam. Za to sem se odločil predvsem zaradi količine podatkov. Če bi želel še komunicirati s strežnikom, bi za pridobivanje porabil več časa. Imel bi sicer novejše podatke, vendar to pr mojem projektu ni ključnega pomena. 
 ```{r}
 source("podatki/uvoz_podatkov.R")
+# trenutno uvozim le 3 tabele, samo za predstavitev
 ```
 
 Uvoženi podatki:
 ----------------
 
-Novice imam podane:
-```{r, echo = FALSE }
-kable(head(tabela2))
-```
-Podatke sem pobral iz spletne strani: <http://www.fasteconomicnews.com/fx_calendar.aspx>, kjer sem naletel na težave, saj sem moral komunicirati s strežnikom, da sem prejel željene podatke.
 Tečajnice pa se nahajajo v taki tabeli:
 ```{r, echo=FALSE}
 kable(head(`2013-05-15-10-30/1`))
+```
+ 
+Novice imam podane v tabeli:
+```{r, echo = FALSE }
+kable(head(tabela2))
 ```
 
 
