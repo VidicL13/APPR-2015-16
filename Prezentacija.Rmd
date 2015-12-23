@@ -31,122 +31,24 @@ Ko bom vse to storil, se bom pa osredotočil na iskanje nekih vzorcev na trgu, k
 Uvoz izgleda trenutno tako:
 ===========================
 ```{r}
-library(rvest)
-library(dplyr)
-library(gsubfn)
-library(httr)
-naslov <- "http://www.fasteconomicnews.com/fx_calendar.aspx"
-
-prebrano <- read_html(naslov, encoding = "UTF-8")
-html_tabela <- prebrano %>% html_node(xpath = '//*[@id="fcc1_dgrC"]')
-tabela <- html_tabela %>% html_table(header = TRUE)
-Oil <- grep("^.*DOE Crude.*$",tabela[,4])
-Oil <- 72
-
-# prebrano <- read_html(naslov, encoding = "UTF-8")
-# html_tabela <- prebrano %>% html_node(xpath = '//*[@id="fcc1_dgrC"]')
-# tabela <- html_tabela %>% html_table(header = TRUE)
-
-
-viewstate <- prebrano %>%
-  html_node(xpath = '//input[@id="__VIEWSTATE"]/@value') %>%
-  html_text()
-viewstategen <- prebrano %>%
-  html_node(xpath = '//input[@id="__VIEWSTATEGENERATOR"]/@value') %>%
-  html_text()
-validation <- prebrano %>%
-  html_node(xpath = '//input[@id="__EVENTVALIDATION"]/@value') %>%
-  html_text()
-
-povezave <- html_tabela %>%
-  xml_nodes(xpath='.//a[@id]/@href') %>%
-  html_text() %>% strapplyc("'([^']*)'")
-
-podstran <- POST(naslov, body = list(
-  "__EVENTTARGET" = povezave[[Oil]][1],
-  "__EVENTARGUMENT" = povezave[[Oil]][2],
-  "__LASTFOCUS" = "",
-  "__VIEWSTATE" = viewstate,
-  "__VIEWSTATEGENERATOR" = viewstategen,
-  "__EVENTVALIDATION" = validation
-), encode = "form") %>% read_html()
-
-tabela2 <- podstran %>%
-  html_node(xpath = '//*[@id="fcc1_dgrC"]') %>%
-  html_table(header=TRUE)
-
-
-#--------------------------------------------------------------------------------------------
-# Sedaj pa še malo počistim in spremenim podatke
-tabela2 <- tabela2[c(-3,-8,-9)]
-mesec1 <- c("Dec", "Nov", "Oct", "Sep", "Aug", "Jul", "Jun", "May", "Apr", "Mar", "Feb", "Jan")
-mesec2 <- c(12:10, "09", "08", "07", "06", "05", "04", "03", "02", "01")
-for (i in 1:12){
-  tabela2[,1] <- gsub(paste("^.{5}",mesec1[i],sep=""),mesec2[i],tabela2[,1])
-}
-tabela2[,1] <- gsub("^(\\d{2})\\s(\\d{2}),\\s(\\d{4})","\\3-\\1-\\2",tabela2[,1])
-tabela2[,2] <- gsub(":","-", tabela2[,2])
-
-tabela2 <- tabela2[c(-105),]
-
-for (i in 1:(floor(length(tabela2[,1])/4))){
-  z <- 4*(i-1)+1
-  tabela2[z,1] <- tabela2[z,1]
-  tabela2[z+1,1] <- tabela2[z,1]
-  tabela2[z+2,1] <- tabela2[z,1]
-  tabela2[z+3,1] <- tabela2[z,1]
-}
-
-# tabela2[,1] <- t
+source("uvoz/uvoz_novic.R")
 ```
- in pa še nekaj kode za uvažanje:
- ``` {r }
- # če bom potreboval imena
-all_dates <- dir("podatki/timestamped")
+ In pa še nekaj kode za uvažanje:
+```{r}
+source("podatki/uvoz_podatkov.R")
+```
 
-poskusni_list <- list.dirs("podatki/timestamped")
-# odstranim samega sebe
-poskusni_list <- poskusni_list[2:388]
-# odstranim še mape, ki držijo potrebne podatke. Ostanejo le še mape clcoil in usdcad
-list_brez_svoje_mape <- poskusni_list[-seq(1,length(poskusni_list),3)]
+Uvoženi podatki:
+----------------
 
-# poberem imena kar z datumom skupaj, za boljšo preglednost in identifikacijo
-proba <- list.files(path = list_brez_svoje_mape, pattern = ".html", full.names = TRUE)
+Novice imam podane:
+```{r, echo = FALSE }
+kable(head(tabela2))
+```
+Podatke sem pobral iz spletne strani: <http://www.fasteconomicnews.com/fx_calendar.aspx>, kjer sem naletel na težave, saj sem moral komunicirati s strežnikom, da sem prejel željene podatke.
+Tečajnice pa se nahajajo v taki tabeli:
+```{r, echo=FALSE}
+kable(head(`2013-05-15-10-30/1`))
+```
 
-ime <- gsub("^.*?/(\\d{2,4}.*?)\\/.*?(\\/.*?)\\.html","^.*?/\\1\\/.*?\\2",proba)
-imena <- gsub("^.*?/(\\d{2,4}.*?)\\/.*?(\\/.*?)\\.html","\\1\\2",proba)
-
-# izbrišem še podvojene
-imena <- unique(imena)
-ime <- unique(ime)
-
-# samo za timer
-ptm <- proc.time()
-
-# ustvarim data.frame velikosti 9x149 oz. 9x148, kjer je prvi stolpec namenjen 
-# datumu, 2:5 so namenjeni clcoil in 6:9 so namenjeni usdcad
-for (i in 1:3){
-  
-  y <- ifelse(gsub(ime[i], "Pravilno", proba) == "Pravilno.html", TRUE, FALSE)
-  y <- proba[y]
-  
-  if (file.info(y[1])$size>1 & file.info(y[2])$size>1){
-    csv1 <- read.csv(y[1])
-    csv2 <- read.csv(y[2])
-    number_of_rows <- min(nrow(csv2),nrow(csv1))
-    x <- data.frame(csv1[1:number_of_rows, c(1,2,4,5,3)],
-                    csv2[1:number_of_rows, c(2,4,5,3)]^-1)
-    names(x) <- c("Date", "OilOpen", "OilHigh", "OilLow",
-                  "OilClose", "CadOpen", "CadHigh", "CadLow", "CadClose")
-    assign(imena[i], x)
-    rm(x,y,csv1,csv2)
-  }
-  else
-    rm(y)
-  
-}
-
-
-cat(proc.time()-ptm)
- ```
 
