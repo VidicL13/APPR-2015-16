@@ -39,4 +39,3 @@ tmp-pdfcrop-*.tex
 .Rproj.user
 .RData
 packrat/lib*/
-packrat/src/
