@@ -54,7 +54,7 @@ for (i in 1:12){
 tabela2[,1] <- gsub("^(\\d{2})\\s(\\d{2}),\\s(\\d{4})","\\3-\\1-\\2",tabela2[,1])
 tabela2[,2] <- gsub(":","-", tabela2[,2])
 
-tabela2 <- tabela2[c(-105,-262),]
+tabela2 <- tabela2[c(-117,-274),]
 
 for (i in 1:(floor(length(tabela2[,1])/4))){
   z <- 4*(i-1)+1
@@ -107,9 +107,10 @@ GasolineInventories <- tab3
 RefineryUtilization <- tab4
 rm(tab4, tab3, tab2, tab1, tab)
 
-
-
-
+write.csv(DistillateInventories, file = "podatki/DistillateInventories.csv")
+write.csv(CrudeOilInventories, file = "podatki/CrudeOilInventories.csv")
+write.csv(GasolineInventories, file = "podatki/GasolineInventories.csv")
+write.csv(RefineryUtilization, file = "podatki/RefineryUtilization.csv")
 
 
 

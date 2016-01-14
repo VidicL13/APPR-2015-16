@@ -45,7 +45,8 @@ multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
     }
   }
 }
-CdOil <- read.csv("podatki/CrudeOilInventories.csv")
-gCdOil <- ggplot(CdOil,aes(x = c(1:length(CdOil[,3]))))
-gCdOil + geom_point(aes(y=sort(CdOil$difference)))
+CdOilI <- read.csv("podatki/CrudeOilInventories.csv")
+gCdOilI <- ggplot(CdOilI,aes(x = c(1:length(CdOilI[,3]))))
+print(gCdOilI + geom_histogram(stat="identity", aes(y=sort(CdOilI$difference))))
+
 
