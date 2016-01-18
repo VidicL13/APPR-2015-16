@@ -10,18 +10,50 @@ output:
     latex_engine: xelatex
 ---
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Temo sem izbiral na področju, ki ga imam željo podrobneje spoznati. Kapitalski trgi zaradi svoje kompleksnosti ponujajo veliko količino podatkov, kar mi bo koristilo pri projektu, kjer bom na podlagi le teh poskušal analizirati dogajanje.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Kakšen je cilj analize?
+=======================
 
+Glavni cilj analize je poiskati vzorce odzivanja trgov, ki se ponavljajo ob objavi novice. Poskušal bom poiskati povezave med razliko napovedi analitikov in objavljeno količino ter odzivnostjo trga. V kolikor bom zaznal vzorce, ki se bodo ponavljali jih bom natančneje analiziral.
+
+Kaj vse imam namen analizirati?
+================================
+
+Analiziral bom:
+- Odziv cene nafte na trgu
+- Odziv valutnega para CAD/USD
+- Njun medsebojni odnos
+- Spreminjanje koreliranosti surove nafte in valutnega križa CAD/USD skozi čas
+
+Ko bom vse to storil, se bom pa osredotočil na iskanje nekih vzorcev na trgu, ki bi jih bilo smiselno koristiti. Tukaj imam predvsem v mislih tako imenovano "hedganje", oziroma zavarovanje naložb z opcijami. Na ta način lahko očitno zmanjšamo volatilnost našega P&L-a (profit & loss).
+
+Obdelava, uvoz in čiščenje podatkov:
+===========================
+
+Podatke sem pobral iz spletne strani: <http://www.fasteconomicnews.com/fx_calendar.aspx>, kjer sem naletel na težave, saj sem moral komunicirati s strežnikom, da sem prejel željene podatke.
 ```{r}
-summary(cars)
+source("uvoz/uvoz_novic.R")
 ```
 
-You can also embed plots, for example:
+Sedaj pa še nekaj uvoza podatkov za tečajnice:
+V obdelavi bom imel večje število podatkov, trenutno obsega 1032 tabel vsaka s po 9 stolpci in vsaj 148 vrsticami. Podatki se prav tako nahajajo na spletni strani <http://www.fasteconomicnews.com/fx_calendar.aspx>, vendar sem jih našel tudi v obliki .html in sem se potem odločil, da uvozim podatke od tam. Za to sem se odločil predvsem zaradi količine podatkov. Če bi želel še komunicirati s strežnikom, bi za pridobivanje porabil več časa. Imel bi sicer novejše podatke, vendar to pr mojem projektu ni ključnega pomena. 
+```{r}
+source("podatki/uvoz_podatkov.R")
+# trenutno uvozim le 3 tabele, samo za predstavitev
+```
 
+Uvoženi podatki:
+----------------
+
+Tečajnice pa se nahajajo v taki tabeli:
 ```{r, echo=FALSE}
-plot(cars)
+kable(head(`2013-05-15-10-30/1`))
+```
+ 
+Novice imam podane v tabeli:
+```{r, echo = FALSE }
+kable(head(tabela2))
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+

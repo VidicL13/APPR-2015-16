@@ -8,6 +8,7 @@ output:
       in_header: lib/styles.sty
 ---
 
+
 Temo sem izbiral na področju, ki ga imam željo podrobneje spoznati. Kapitalski trgi zaradi svoje kompleksnosti ponujajo veliko količino podatkov, kar mi bo koristilo pri projektu, kjer bom na podlagi le teh poskušal analizirati dogajanje.
 Glede na to da gre tukaj za zelo obširno temo, sem se odločil, da se podrobneje posvetim le specifični novici, ki vpliva na tako na ceno nafte, kot tudi na določene valutne tečaje. 
 
