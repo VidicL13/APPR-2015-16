@@ -96,7 +96,9 @@ Narisi_X_Graf_cad(iskani_list_tabel[[2]])
 
 ```
 
-
+zdej morm pa nardit še:
+- korelacije
+- zračunat premike in jih uvrednotit
 
 
 
