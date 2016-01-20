@@ -1,5 +1,4 @@
 # pod "aa" shraniš željene podatke za graf
-
 # preoblikoval bom v xts obliko
 library(quantmod)
 library(ggplot2)

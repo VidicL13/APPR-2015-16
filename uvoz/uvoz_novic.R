@@ -53,12 +53,14 @@ for (i in 1:12){
 }
 tabela2[,1] <- gsub("^(\\d{2})\\s(\\d{2}),\\s(\\d{4})","\\3-\\1-\\2",tabela2[,1])
 tabela2[,2] <- gsub(":","-", tabela2[,2])
+tabela2[,3] <- gsub("^.*(Manufacturing)", TRUE, tabela2[,3])
 
-<<<<<<< HEAD
-tabela2 <- tabela2[c(-121, -278),]
-=======
-tabela2 <- tabela2[c(-121,-278),]
->>>>>>> 67306b9120f63b5c9a5109ab993d8e7ca9ca6988
+for (i in 1:length(tabela2[,1])){
+  if (paste(tabela2[i,3]) == "TRUE"){
+    tabela2 <- tabela2[c(-i),]
+  }
+}
+
 
 for (i in 1:(floor(length(tabela2[,1])/4))){
   z <- 4*(i-1)+1
@@ -109,13 +111,13 @@ DistillateInventories <- tab1
 CrudeOilInventories <- tab2
 GasolineInventories <- tab3
 RefineryUtilization <- tab4
-rm(tab4, tab3, tab2, tab1, tab)
+rm(tab4, tab3, tab2, tab1, tab, tabela, tabela2, i, mesec1, mesec2, Oil, number_of_rows,
+   naslov, podstran, povezave, prebrano, validation, viewstate, viewstategen, z, html_tabela)
 
 write.csv(DistillateInventories, file = "podatki/DistillateInventories.csv")
 write.csv(CrudeOilInventories, file = "podatki/CrudeOilInventories.csv")
 write.csv(GasolineInventories, file = "podatki/GasolineInventories.csv")
 write.csv(RefineryUtilization, file = "podatki/RefineryUtilization.csv")
-
 
 
 

@@ -22,7 +22,7 @@ ptm <- proc.time()
 
 # ustvarim data.frame velikosti 9x149 oz. 9x148, kjer je prvi stolpec namenjen 
 # datumu, 2:5 so namenjeni clcoil in 6:9 so namenjeni usdcad
-for (i in 1:3){
+for (i in 1){
   
   y <- ifelse(gsub(ime[i], "Pravilno", proba) == "Pravilno.html", TRUE, FALSE)
   y <- proba[y]
@@ -42,8 +42,7 @@ for (i in 1:3){
     rm(y)
   
 }
-
-
 cat(proc.time()-ptm)
+rm(i, ime, imena, list_brez_svoje_mape, poskusni_list, proba, number_of_rows, ptm)
 
 

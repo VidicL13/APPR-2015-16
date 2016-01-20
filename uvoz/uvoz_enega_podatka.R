@@ -46,5 +46,7 @@ uvoz_podatka <- function(NovicaDatum){
         rm(y)
     }
   }
+  rm(i, ime, imena, list_brez_svoje_mape, poskusni_list, proba, ptm, number_of_rows)
   return(l)
+  
 }

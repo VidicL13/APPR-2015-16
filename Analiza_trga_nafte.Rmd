@@ -2,10 +2,11 @@
 title: "Analiza trga nafte"
 author: "Luka Vidic"
 output:
+  html_document: default
   pdf_document:
-    latex_engine: xelatex
     includes:
       in_header: lib/styles.sty
+    latex_engine: xelatex
 ---
 
 
@@ -39,35 +40,73 @@ Priprava okolja:
 
 Preden začnem s kakršno koli analizo, bom najprej prenesel vse potrebne knjižnice:
 ```{r setup}
-source("lib/knjiznice.r", encoding = "UTF-8")
+source("lib/knjiznice.R", encoding = "UTF-8")
 ```
 
 
-Pridobivanje podatkov:
-======================
+Obdelava, uvoz in čiščenje podatkov:
+===========================
 
-Prvo sem se odločil poiskati podatke za ceno surove nafte v različnih časovnih intervalih (1,2,5,10,15,30,60,300 sekund) ob objavi novice. Nato sem to ponovil še za tečaj ameriškega dolarja in kanadskega dolarja (USD/CAD).
-Imel sem to srečo, da sem podatke našel že zbrane v obliki csv, ki sem jih skranil v `\podatki\timestamped`. Ko je bilo to shranjeno sem dodal še podatke napovedi in realiziranih količin zalog v mapo `\podatki\inventories.txt`
-
-V primeru, da ne bi našel že zbranih podatkov, bi jih pridobil iz spletne strani <http://www.fasteconomicnews.com/fx_calendar.aspx> z uvozom knjižnice XML in uporabo funkcije `htmlTreeParse(naslov, encoding = "UTF-8", useInternal = TRUE)` bi poiskal željene podatke.
-
-
-Urejanje podatkov:
-====================
-
-Podatke sem uredil s pomočjo regularnih izrazov in jih shranil kot `data.frame` z imeni spremenljivk sestavljenimi iz *datum/število sekund*. Za imena vrstic pa sem uporabil:
-```{r uvoz, eval=FALSE}
-source("uvoz/uvoz_podatkov.r", encoding = "UTF-8")
+Podatke sem pobral iz spletne strani: <http://www.fasteconomicnews.com/fx_calendar.aspx>, kjer sem naletel na težave, saj sem moral komunicirati s strežnikom, da sem prejel željene podatke. Ker se podatki na spletni strani spreminjajo in posodabljajo, sem imel tudi veliko dela s sortiranjem pravih podatkov.
+```{r uvoz novic}
+source("uvoz/uvoz_novic.R")
 ```
- 
+Podatki niso shranjeni v popolni tidy-data zaradi boljše preglednosti.
+```{r, echo=FALSE, fig.subcap="Podatki so urejeni po datumih in glede na tip vrednosti", fig.cap="Crude Oil Inventories"}
+kable(head(CrudeOilInventories))
+```
 
-Sedaj ko imam podatke za formiranje grafov ter opravlanje analiz urejene, moram še urediti podatke o napovedih in realiziranih ocenah nafte.
+Sedaj pa še nekaj uvoza podatkov za tečajnice:
+V obdelavi bom imel večje število podatkov, trenutno obsega 1032 tabel vsaka s po 9 stolpci in vsaj 148 vrsticami. Podatki se prav tako nahajajo na spletni strani <http://www.fasteconomicnews.com/fx_calendar.aspx>, vendar sem jih našel tudi v obliki .html in sem se potem odločil, da uvozim podatke od tam. Za to sem se odločil predvsem zaradi količine podatkov. Če bi želel še komunicirati s strežnikom, bi za pridobivanje porabil več časa. Imel bi sicer novejše podatke, vendar to pr mojem projektu ni ključnega pomena.
 
+Definiram funkcijo `uvoz_podatka`, ki za spremenljivko sprejme željen datum (vsi možni datumi so shranjeni v spremenljivki `all_dates`), in nato vrne list osmih tabel podatkov tega dne ločenih glede na dolžino časovnega intervala.
+```{r uvoz podatkov}
+source("uvoz/uvoz_enega_podatka.R")
+```
 
+Podatke sem zbral v tabeli, kjer sem združil tečaje za USD/CAD in Crude Oil da nisem podvajal tabel.
+```{r tečajnica, echo=FALSE, fig.subcap="Open = cena po kateri se je časovni interval odprl, Close = zaprl, High = najvišja vrednost dosežena v časovnem intervalu, Low = najnižja vrednost", fig.cap="Tabela za datum 15.05.2013 ob 10:30, sekundni interval"}
+kable(head(`2013-05-15-10-30/1`))
+```
 
 
 Vizualizacija:
 ==============
-```{r uvoz}
+
+Ker me zanimajo reakcije trga na presenečenja, ki jih ponujajo objave novic, se je smiselno vprašati kako je odziv trga koreliran z odstopanjem novice.
+
+Za začetek bom prikazal odstopanja, torej razliko med napovedmi in realiziranimi podatki.
+```{r uvoz, echo=FALSE, fig.cap="Odstopanja napovedi", fig.subcap="Odstopanja napovedi, ločena na tip novice in razporejena po višini odstopanja"}
 source("vizualizacija/risanje_novic_napovedi.R", encoding = "UTF-8")
+odstopanje_vse_novice()
 ```
+
+Če primerjamo sedaj grafe posameznih tečajnic ob najbolj ekstreminh odstopanjih, vidimo
+
+```{r risanje grafov, fig.cap="Tukaj se nahaja koda, ki izriše grafe"}
+source("vizualizacija/Narisi_X_Graf.R", encoding = "UTF-8")
+iskani_datum <- diference[order(diference$DistillateInventories),]
+iskani_list_tabel <- uvoz_podatka(iskani_datum[1,1])
+aa <- iskani_list_tabel[[2]]
+#tole se morm odločt kere bom risal :D pomojem da bom z narisi_x_graf
+source("vizualizacija/samo_za_en_graf_cad.R", encoding = "UTF-8")
+Narisi_X_Graf_cad(iskani_list_tabel[[2]])
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
