@@ -54,7 +54,11 @@ for (i in 1:12){
 tabela2[,1] <- gsub("^(\\d{2})\\s(\\d{2}),\\s(\\d{4})","\\3-\\1-\\2",tabela2[,1])
 tabela2[,2] <- gsub(":","-", tabela2[,2])
 
+<<<<<<< HEAD
 tabela2 <- tabela2[c(-121, -278),]
+=======
+tabela2 <- tabela2[c(-121,-278),]
+>>>>>>> 67306b9120f63b5c9a5109ab993d8e7ca9ca6988
 
 for (i in 1:(floor(length(tabela2[,1])/4))){
   z <- 4*(i-1)+1
